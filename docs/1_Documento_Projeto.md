@@ -60,7 +60,7 @@ Metricas para guiar a priorização da semana na reunião de diretoria:
 - Limitações: Inconsistência de preenchimento devido a versões antigas do aplicativo que aceitavam texto livre.  
 
 ### 5. Wireframe da Tela
-![esboco_bi_case](docs\esboco_bi_case.png)
+![esboco_bi_case](esboco_bi_case.png)
 
 - Filtro Global (Topo): Seleção de período (Mês/Semana) aplicável a todas as visões.
 

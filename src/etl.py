@@ -72,6 +72,16 @@ def padronizar_texto (df, nome_coluna):
     df[nome_coluna] = df[nome_coluna].str.normalize('NFKD').str.encode('ascii', errors='ignore').str.decode('utf-8')
 
     return df
+
+def salvar_atualizado (df_novo, caminho_saida, chave):
+    if os.path.exists(caminho_saida):
+    antigo = pd.read_csv(caminho_saida)
+
+    df_novo = (
+        pd.concat([antigo,df_novo], ignore_index=True).drop_duplicates(subset=chave, keep='last')
+    )
+
+    df_novo.to_csv(caminho_saida, index=False) 
 # %%
 #Função para limpeza do arquivo de lojas
 def limpar_lojas(lojas):
