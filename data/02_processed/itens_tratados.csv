@@ -1,0 +1,1702 @@
+id_loja,competencia,categoria,produto,quantidade_vendida,preco_medio,custo_unitario
+LJ01,2026-01-01,doces,bolo de cenoura fatia,435,13.76,5.35
+LJ01,2026-01-01,doces,brownie,675,14.34,5.84
+LJ01,2026-01-01,varejo,cafe em graos 250g,396,42.03,28.49
+LJ01,2026-01-01,varejo,cafe em graos 500g,255,72.85,50.34
+LJ01,2026-01-01,graos e varejo,caneca turmalina,122,59.45,38.12594936708861
+LJ01,2026-01-01,cafe,cappuccino,1220,15.48,3.67
+LJ01,2026-01-01,graos e varejo,capsulas 10 un,286,38.81,26.771125
+LJ01,2026-01-01,geladas,cha gelado da casa,402,13.21,4.08
+LJ01,2026-01-01,cafes,coado 300ml,1081,10.71,2.33
+LJ01,2026-01-01,geladas,cold brew 400ml,725,16.8,5.09
+LJ01,2026-01-01,doces,cookie de castanha,589,11.29,4.82
+LJ01,2026-01-01,salgados,croissant de queijo,741,17.94,9.58
+LJ01,2026-01-01,salgados,empada de palmito,466,15.41,8.43
+LJ01,2026-01-01,cafe,espresso,1411,8.57,1.62
+LJ01,2026-01-01,geladas,frappe turmalina,545,21.08,7.64
+LJ01,2026-01-01,cafe,latte,1096,16.26,3.91
+LJ01,2026-01-01,bebidas geladas,limonada suica,373,13.83,4.41
+LJ01,2026-01-01,cafe,mocha,543,18.64,4.99
+LJ01,2026-01-01,salgados,pao de queijo 2 un,1554,12.28,6.22
+LJ01,2026-01-01,salgados,sanduiche de frango,542,26.41,15.55
+LJ01,2026-01-01,doces,torta de limao fatia,284,17.03,7.04
+LJ01,2026-02-01,doces,bolo de cenoura fatia,387,13.1,5.33
+LJ01,2026-02-01,doces,brownie,571,14.36,6.33
+LJ01,2026-02-01,graos e varejo,cafe em graos 250g,355,42.57,26.97
+LJ01,2026-02-01,varejo,cafe em graos 500g,224,72.79,49.61
+LJ01,2026-02-01,varejo,caneca turmalina,121,60.67,37.58
+LJ01,2026-02-01,cafe,cappuccino,1157,15.05,3.68
+LJ01,2026-02-01,graos e varejo,capsulas 10 un,270,37.21,25.6
+LJ01,2026-02-01,bebidas geladas,cha gelado da casa,375,13.31,4.24
+LJ01,2026-02-01,cafe,coado 300ml,1150,10.75,2.28
+LJ01,2026-02-01,geladas,cold brew 400ml,679,16.86,4.94
+LJ01,2026-02-01,doces,cookie de castanha,509,10.82,4.93
+LJ01,2026-02-01,salgados,croissant de queijo,683,18.4,10.07
+LJ01,2026-02-01,salgados,empada de palmito,462,14.61,8.35
+LJ01,2026-02-01,cafe,espresso,1216,8.41,1.68
+LJ01,2026-02-01,bebidas geladas,frappe turmalina,512,21.21,7.32
+LJ01,2026-02-01,cafe,latte,908,15.71,3.93
+LJ01,2026-02-01,bebidas geladas,limonada suica,334,14.34,4.59
+LJ01,2026-02-01,cafe,mocha,490,18.89,5.09
+LJ01,2026-02-01,salgados,pao de queijo 2 un,1394,12.21,6.15
+LJ01,2026-02-01,salgados,sanduiche de frango,479,26.22,15.51
+LJ01,2026-02-01,doces,torta de limao fatia,304,17.09,7.62
+LJ01,2026-03-01,doces,bolo de cenoura fatia,431,13.25,5.37
+LJ01,2026-03-01,doces,brownie,758,14.22,6.36
+LJ01,2026-03-01,graos e varejo,cafe em graos 250g,408,41.87,27.08
+LJ01,2026-03-01,varejo,cafe em graos 500g,277,74.67,50.04
+LJ01,2026-03-01,graos e varejo,caneca turmalina,161,58.1,38.06
+LJ01,2026-03-01,cafes,cappuccino,1343,15.48,3.73
+LJ01,2026-03-01,graos e varejo,capsulas 10 un,375,37.15,26.01
+LJ01,2026-03-01,bebidas geladas,cha gelado da casa,440,12.66,4.08
+LJ01,2026-03-01,cafe,coado 300ml,1309,10.94,2.23
+LJ01,2026-03-01,bebidas geladas,cold brew 400ml,914,17.11,5.1
+LJ01,2026-03-01,doces,cookie de castanha,611,11.1,4.63
+LJ01,2026-03-01,salgados,croissant de queijo,832,17.7,10.18
+LJ01,2026-03-01,salgados,empada de palmito,514,15.37,8.36
+LJ01,2026-03-01,cafe,espresso,1426,8.69,1.64
+LJ01,2026-03-01,bebidas geladas,frappe turmalina,727,20.62,7.67
+LJ01,2026-03-01,cafes,latte,1165,16.41,3.89
+LJ01,2026-03-01,geladas,limonada suica,429,13.67,4.7
+LJ01,2026-03-01,cafe,mocha,747,18.47,5.01
+LJ01,2026-03-01,salgados,pao de queijo 2 un,1834,11.73,5.93
+LJ01,2026-03-01,salgados,sanduiche de frango,703,27.19,16.05
+LJ01,2026-03-01,doces,torta de limao fatia,334,17.46,7.24
+LJ01,2026-04-01,doces,bolo de cenoura fatia,411,13.63,5.37
+LJ01,2026-04-01,doces,brownie,643,14.2,5.93
+LJ01,2026-04-01,graos e varejo,cafe em graos 250g,416,41.6,27.91
+LJ01,2026-04-01,graos e varejo,cafe em graos 500g,284,76.1,48.96
+LJ01,2026-04-01,graos e varejo,caneca turmalina,144,57.53,36.76
+LJ01,2026-04-01,cafe,cappuccino,1424,15.86,3.44
+LJ01,2026-04-01,graos e varejo,capsulas 10 un,298,38.54,27.98
+LJ01,2026-04-01,bebidas geladas,cha gelado da casa,474,13.29,4.22
+LJ01,2026-04-01,cafes,coado 300ml,1256,11.2,2.29
+LJ01,2026-04-01,geladas,cold brew 400ml,796,16.89,5.13
+LJ01,2026-04-01,doces,cookie de castanha,638,11.23,4.49
+LJ01,2026-04-01,salgados,croissant de queijo,776,17.52,9.65
+LJ01,2026-04-01,salgados,empada de palmito,557,14.98,7.77
+LJ01,2026-04-01,cafes,espresso,1492,8.48,1.66
+LJ01,2026-04-01,geladas,frappe turmalina,630,20.61,7.78
+LJ01,2026-04-01,cafes,latte,1255,15.57,3.94
+LJ01,2026-04-01,bebidas geladas,limonada suica,408,13.67,4.38
+LJ01,2026-04-01,cafe,mocha,702,18.01,5.03
+LJ01,2026-04-01,salgados,pao de queijo 2 un,1544,11.85,6.02
+LJ01,2026-04-01,salgados,sanduiche de frango,567,26.77,15.57
+LJ01,2026-04-01,doces,torta de limao fatia,358,17.26,7.69
+LJ01,2026-05-01,doces,bolo de cenoura fatia,438,13.63,5.45
+LJ01,2026-05-01,doces,brownie,790,14.14,5.92
+LJ01,2026-05-01,varejo,cafe em graos 250g,407,41.98,27.54
+LJ01,2026-05-01,graos e varejo,cafe em graos 500g,279,72.08,51.18
+LJ01,2026-05-01,graos e varejo,caneca turmalina,157,58.45,37.62
+LJ01,2026-05-01,cafe,cappuccino,1309,15.62,3.66
+LJ01,2026-05-01,varejo,capsulas 10 un,368,37.23,25.63
+LJ01,2026-05-01,geladas,cha gelado da casa,503,12.75,4.13
+LJ01,2026-05-01,cafes,coado 300ml,1438,10.86,2.28
+LJ01,2026-05-01,bebidas geladas,cold brew 400ml,830,16.51,5.15
+LJ01,2026-05-01,doces,cookie de castanha,692,10.85,4.93
+LJ01,2026-05-01,salgados,croissant de queijo,816,18.17,10.03
+LJ01,2026-05-01,salgados,empada de palmito,523,15.09,7.71
+LJ01,2026-05-01,cafes,espresso,1421,8.52,1.74
+LJ01,2026-05-01,bebidas geladas,frappe turmalina,665,20.79,7.8
+LJ01,2026-05-01,cafe,latte,1174,15.6,3.8
+LJ01,2026-05-01,geladas,limonada suica,433,14.05,4.76
+LJ01,2026-05-01,cafe,mocha,718,18.52,5.0
+LJ01,2026-05-01,salgados,pao de queijo 2 un,1559,11.87,6.03
+LJ01,2026-05-01,salgados,sanduiche de frango,647,27.01,15.16
+LJ01,2026-05-01,doces,torta de limao fatia,352,17.11,7.26
+LJ01,2026-06-01,doces,bolo de cenoura fatia,468,13.63,5.71
+LJ01,2026-06-01,doces,brownie,778,13.59,6.33
+LJ01,2026-06-01,graos e varejo,cafe em graos 250g,522,41.06,26.52
+LJ01,2026-06-01,graos e varejo,cafe em graos 500g,282,74.71,51.38
+LJ01,2026-06-01,varejo,caneca turmalina,156,60.39,38.4
+LJ01,2026-06-01,cafe,cappuccino,1521,15.4,3.78
+LJ01,2026-06-01,varejo,capsulas 10 un,350,37.43,26.86
+LJ01,2026-06-01,bebidas geladas,cha gelado da casa,512,12.89,4.2
+LJ01,2026-06-01,cafe,coado 300ml,1436,11.02,2.32
+LJ01,2026-06-01,geladas,cold brew 400ml,969,16.73,5.31
+LJ01,2026-06-01,doces,cookie de castanha,651,10.93,4.84
+LJ01,2026-06-01,salgados,croissant de queijo,919,17.92,9.97
+LJ01,2026-06-01,salgados,empada de palmito,631,14.86,8.26
+LJ01,2026-06-01,cafe,espresso,1665,8.54,1.75
+LJ01,2026-06-01,bebidas geladas,frappe turmalina,751,21.06,7.33
+LJ01,2026-06-01,cafes,latte,1362,16.3,3.76
+LJ01,2026-06-01,geladas,limonada suica,453,13.67,4.41
+LJ01,2026-06-01,cafe,mocha,716,17.96,4.8
+LJ01,2026-06-01,salgados,pao de queijo 2 un,1988,11.76,6.1
+LJ01,2026-06-01,salgados,sanduiche de frango,742,27.69,15.92
+LJ01,2026-06-01,doces,torta de limao fatia,360,16.6,7.17
+LJ02,2026-01-01,doces,bolo de cenoura fatia,357,13.9,5.59
+LJ02,2026-01-01,doces,brownie,584,14.34,6.07
+LJ02,2026-01-01,varejo,cafe em graos 250g,169,41.98,28.49
+LJ02,2026-01-01,graos e varejo,cafe em graos 500g,118,73.4,46.77
+LJ02,2026-01-01,graos e varejo,caneca turmalina,65,57.88,38.12594936708861
+LJ02,2026-01-01,cafe,cappuccino,1239,15.04,3.47
+LJ02,2026-01-01,varejo,capsulas 10 un,138,37.75,25.72
+LJ02,2026-01-01,bebidas geladas,cha gelado da casa,437,12.97,4.08
+LJ02,2026-01-01,cafe,coado 300ml,1224,11.22,2.23
+LJ02,2026-01-01,bebidas geladas,cold brew 400ml,751,17.32,5.23
+LJ02,2026-01-01,doces,cookie de castanha,581,11.24,4.6
+LJ02,2026-01-01,salgados,croissant de queijo,613,17.81,9.95
+LJ02,2026-01-01,salgados,empada de palmito,446,14.79,8.39
+LJ02,2026-01-01,cafe,espresso,1395,8.41,1.63
+LJ02,2026-01-01,bebidas geladas,frappe turmalina,575,21.0,7.72
+LJ02,2026-01-01,cafe,latte,1073,16.42,3.8
+LJ02,2026-01-01,geladas,limonada suica,341,14.0,4.49
+LJ02,2026-01-01,cafe,mocha,654,17.99,4.99
+LJ02,2026-01-01,salgados,pao de queijo 2 un,1194,11.68,6.38
+LJ02,2026-01-01,salgados,sanduiche de frango,470,27.15,15.41
+LJ02,2026-01-01,doces,torta de limao fatia,309,16.86,7.12
+LJ02,2026-02-01,doces,bolo de cenoura fatia,368,13.73,5.63
+LJ02,2026-02-01,doces,brownie,570,14.1,6.4
+LJ02,2026-02-01,varejo,cafe em graos 250g,141,42.73,26.97
+LJ02,2026-02-01,graos e varejo,cafe em graos 500g,91,75.95,49.61
+LJ02,2026-02-01,graos e varejo,caneca turmalina,53,59.01,38.61
+LJ02,2026-02-01,cafes,cappuccino,1243,15.32,3.78
+LJ02,2026-02-01,graos e varejo,capsulas 10 un,129,37.48,26.23
+LJ02,2026-02-01,bebidas geladas,cha gelado da casa,333,13.17,4.17
+LJ02,2026-02-01,cafe,coado 300ml,1014,10.73,2.4
+LJ02,2026-02-01,bebidas geladas,cold brew 400ml,673,16.89,5.06
+LJ02,2026-02-01,doces,cookie de castanha,438,11.16,4.77
+LJ02,2026-02-01,salgados,croissant de queijo,550,18.42,9.28
+LJ02,2026-02-01,salgados,empada de palmito,357,14.9,7.97
+LJ02,2026-02-01,cafe,espresso,1248,8.6,1.77
+LJ02,2026-02-01,geladas,frappe turmalina,541,20.37,7.47
+LJ02,2026-02-01,cafe,latte,971,16.31,3.77
+LJ02,2026-02-01,bebidas geladas,limonada suica,306,13.81,4.61
+LJ02,2026-02-01,cafe,mocha,544,18.21,4.99
+LJ02,2026-02-01,salgados,pao de queijo 2 un,1048,12.16,6.48
+LJ02,2026-02-01,salgados,sanduiche de frango,390,26.46,14.83
+LJ02,2026-02-01,doces,torta de limao fatia,253,16.81,7.67
+LJ02,2026-03-01,doces,bolo de cenoura fatia,381,13.69,5.67
+LJ02,2026-03-01,doces,brownie,614,14.19,5.91
+LJ02,2026-03-01,varejo,cafe em graos 250g,173,42.58,28.14
+LJ02,2026-03-01,varejo,cafe em graos 500g,102,72.61,48.45
+LJ02,2026-03-01,varejo,caneca turmalina,66,60.0,38.06
+LJ02,2026-03-01,cafe,cappuccino,1378,15.86,3.44
+LJ02,2026-03-01,graos e varejo,capsulas 10 un,128,38.29,27.68
+LJ02,2026-03-01,bebidas geladas,cha gelado da casa,425,12.97,4.36
+LJ02,2026-03-01,cafe,coado 300ml,1167,11.22,2.34
+LJ02,2026-03-01,geladas,cold brew 400ml,757,16.87,5.13
+LJ02,2026-03-01,doces,cookie de castanha,493,11.07,4.83
+LJ02,2026-03-01,salgados,croissant de queijo,614,18.15,9.49
+LJ02,2026-03-01,salgados,empada de palmito,438,15.35,8.26
+LJ02,2026-03-01,cafes,espresso,1266,8.5,1.62
+LJ02,2026-03-01,bebidas geladas,frappe turmalina,558,20.49,7.6
+LJ02,2026-03-01,cafe,latte,1153,16.32,3.93
+LJ02,2026-03-01,bebidas geladas,limonada suica,298,14.22,4.45
+LJ02,2026-03-01,cafes,mocha,565,18.98,4.78
+LJ02,2026-03-01,salgados,pao de queijo 2 un,1331,12.23,6.02
+LJ02,2026-03-01,salgados,sanduiche de frango,447,27.08,15.12
+LJ02,2026-03-01,doces,torta de limao fatia,282,16.7,7.61
+LJ02,2026-04-01,doces,bolo de cenoura fatia,421,13.28,5.63
+LJ02,2026-04-01,doces,brownie,624,13.77,5.88
+LJ02,2026-04-01,graos e varejo,cafe em graos 250g,173,41.34,28.31
+LJ02,2026-04-01,graos e varejo,cafe em graos 500g,108,74.22,50.44
+LJ02,2026-04-01,graos e varejo,caneca turmalina,61,58.2,36.76
+LJ02,2026-04-01,cafe,cappuccino,1436,15.13,3.56
+LJ02,2026-04-01,graos e varejo,capsulas 10 un,140,38.19,27.91
+LJ02,2026-04-01,geladas,cha gelado da casa,444,13.11,4.17
+LJ02,2026-04-01,cafe,coado 300ml,1338,11.0,2.4
+LJ02,2026-04-01,bebidas geladas,cold brew 400ml,792,16.73,5.08
+LJ02,2026-04-01,doces,cookie de castanha,577,10.96,4.66
+LJ02,2026-04-01,salgados,croissant de queijo,582,18.47,9.57
+LJ02,2026-04-01,salgados,empada de palmito,377,14.59,8.44
+LJ02,2026-04-01,cafes,espresso,1523,8.62,1.71
+LJ02,2026-04-01,bebidas geladas,frappe turmalina,638,21.49,7.48
+LJ02,2026-04-01,cafe,latte,1131,16.44,3.93
+LJ02,2026-04-01,bebidas geladas,limonada suica,363,14.29,4.68
+LJ02,2026-04-01,cafe,mocha,590,18.09,4.79
+LJ02,2026-04-01,salgados,pao de queijo 2 un,1192,11.71,6.37
+LJ02,2026-04-01,salgados,sanduiche de frango,463,26.89,15.04
+LJ02,2026-04-01,doces,torta de limao fatia,318,16.72,7.18
+LJ02,2026-05-01,doces,bolo de cenoura fatia,470,13.27,5.88
+LJ02,2026-05-01,doces,brownie,657,14.02,6.17
+LJ02,2026-05-01,graos e varejo,cafe em graos 250g,221,42.9,27.54
+LJ02,2026-05-01,graos e varejo,cafe em graos 500g,128,73.08,51.18
+LJ02,2026-05-01,varejo,caneca turmalina,71,58.08,37.61
+LJ02,2026-05-01,cafe,cappuccino,1639,15.13,3.53
+LJ02,2026-05-01,graos e varejo,capsulas 10 un,167,36.95,28.07
+LJ02,2026-05-01,bebidas geladas,cha gelado da casa,504,13.36,4.05
+LJ02,2026-05-01,cafes,coado 300ml,1372,10.99,2.24
+LJ02,2026-05-01,geladas,cold brew 400ml,748,17.38,5.22
+LJ02,2026-05-01,doces,cookie de castanha,641,10.87,4.67
+LJ02,2026-05-01,salgados,croissant de queijo,777,17.94,9.92
+LJ02,2026-05-01,salgados,empada de palmito,459,15.22,8.25
+LJ02,2026-05-01,cafes,espresso,1752,8.5,1.62
+LJ02,2026-05-01,bebidas geladas,frappe turmalina,719,20.41,7.47
+LJ02,2026-05-01,cafes,latte,1147,15.58,3.87
+LJ02,2026-05-01,geladas,limonada suica,368,13.8,4.68
+LJ02,2026-05-01,cafe,mocha,699,18.78,4.99
+LJ02,2026-05-01,salgados,pao de queijo 2 un,1344,12.35,6.02
+LJ02,2026-05-01,salgados,sanduiche de frango,557,26.85,15.09
+LJ02,2026-05-01,doces,torta de limao fatia,337,16.6,7.44
+LJ02,2026-06-01,doces,bolo de cenoura fatia,465,13.39,5.77
+LJ02,2026-06-01,doces,brownie,718,13.88,5.96
+LJ02,2026-06-01,varejo,cafe em graos 250g,184,41.79,26.79
+LJ02,2026-06-01,graos e varejo,cafe em graos 500g,117,74.87,50.15
+LJ02,2026-06-01,varejo,caneca turmalina,65,58.95,39.48
+LJ02,2026-06-01,cafe,cappuccino,1422,15.96,3.73
+LJ02,2026-06-01,graos e varejo,capsulas 10 un,167,37.57,27.35
+LJ02,2026-06-01,bebidas geladas,cha gelado da casa,441,12.73,4.32
+LJ02,2026-06-01,cafe,coado 300ml,1447,10.95,2.4
+LJ02,2026-06-01,geladas,cold brew 400ml,836,17.24,5.33
+LJ02,2026-06-01,doces,cookie de castanha,543,11.11,4.68
+LJ02,2026-06-01,salgados,croissant de queijo,665,17.95,9.81
+LJ02,2026-06-01,salgados,empada de palmito,485,14.97,8.04
+LJ02,2026-06-01,cafe,espresso,1631,8.67,1.65
+LJ02,2026-06-01,bebidas geladas,frappe turmalina,585,21.35,7.51
+LJ02,2026-06-01,cafe,latte,1331,16.35,3.8
+LJ02,2026-06-01,bebidas geladas,limonada suica,379,14.24,4.54
+LJ02,2026-06-01,cafe,mocha,740,18.26,4.99
+LJ02,2026-06-01,salgados,pao de queijo 2 un,1419,11.88,6.12
+LJ02,2026-06-01,salgados,sanduiche de frango,529,26.3,15.02
+LJ02,2026-06-01,doces,torta de limao fatia,323,16.87,7.77
+LJ03,2026-01-01,doces,bolo de cenoura fatia,272,13.39,5.64
+LJ03,2026-01-01,doces,brownie,411,13.97,5.89
+LJ03,2026-01-01,graos e varejo,cafe em graos 250g,123,41.24,28.49
+LJ03,2026-01-01,graos e varejo,cafe em graos 500g,71,75.35,49.58
+LJ03,2026-01-01,graos e varejo,caneca turmalina,42,58.64,36.43
+LJ03,2026-01-01,cafes,cappuccino,918,15.57,3.57
+LJ03,2026-01-01,varejo,capsulas 10 un,85,38.83,25.72
+LJ03,2026-01-01,bebidas geladas,cha gelado da casa,258,13.26,4.21
+LJ03,2026-01-01,cafe,coado 300ml,748,10.71,2.25
+LJ03,2026-01-01,geladas,cold brew 400ml,504,17.51,5.1
+LJ03,2026-01-01,doces,cookie de castanha,336,11.13,4.81
+LJ03,2026-01-01,salgados,croissant de queijo,464,17.66,9.35
+LJ03,2026-01-01,salgados,empada de palmito,329,15.45,8.23
+LJ03,2026-01-01,cafe,espresso,911,8.7,1.72
+LJ03,2026-01-01,bebidas geladas,frappe turmalina,367,20.51,7.44
+LJ03,2026-01-01,cafe,latte,758,15.78,3.8
+LJ03,2026-01-01,bebidas geladas,limonada suica,200,13.72,4.63
+LJ03,2026-01-01,cafes,mocha,380,18.92,5.02
+LJ03,2026-01-01,salgados,pao de queijo 2 un,845,11.92,6.14
+LJ03,2026-01-01,salgados,sanduiche de frango,318,27.58,15.65
+LJ03,2026-01-01,doces,torta de limao fatia,209,16.63,7.54
+LJ03,2026-02-01,doces,bolo de cenoura fatia,246,13.68,5.35
+LJ03,2026-02-01,doces,brownie,346,13.65,5.8
+LJ03,2026-02-01,varejo,cafe em graos 250g,98,41.02,26.97
+LJ03,2026-02-01,graos e varejo,cafe em graos 500g,69,73.13,47.76
+LJ03,2026-02-01,varejo,caneca turmalina,39,59.9,39.39
+LJ03,2026-02-01,cafes,cappuccino,779,15.47,3.51
+LJ03,2026-02-01,varejo,capsulas 10 un,87,38.47,26.02
+LJ03,2026-02-01,bebidas geladas,cha gelado da casa,248,12.99,4.12
+LJ03,2026-02-01,cafe,coado 300ml,751,11.05,2.38
+LJ03,2026-02-01,bebidas geladas,cold brew 400ml,391,16.85,4.87
+LJ03,2026-02-01,doces,cookie de castanha,350,10.91,4.78
+LJ03,2026-02-01,salgados,croissant de queijo,403,17.66,9.91
+LJ03,2026-02-01,salgados,empada de palmito,250,14.95,7.77
+LJ03,2026-02-01,cafe,espresso,901,8.3,1.68
+LJ03,2026-02-01,geladas,frappe turmalina,362,21.07,7.49
+LJ03,2026-02-01,cafe,latte,658,16.13,3.69
+LJ03,2026-02-01,geladas,limonada suica,200,14.04,4.65
+LJ03,2026-02-01,cafes,mocha,414,19.01,5.07
+LJ03,2026-02-01,salgados,pao de queijo 2 un,859,12.35,6.4
+LJ03,2026-02-01,salgados,sanduiche de frango,311,26.82,14.99
+LJ03,2026-02-01,doces,torta de limao fatia,170,17.36,7.09
+LJ03,2026-03-01,doces,bolo de cenoura fatia,304,13.58,5.84
+LJ03,2026-03-01,doces,brownie,402,13.82,6.07
+LJ03,2026-03-01,graos e varejo,cafe em graos 250g,117,41.01,28.81
+LJ03,2026-03-01,graos e varejo,cafe em graos 500g,91,72.85,50.7
+LJ03,2026-03-01,graos e varejo,caneca turmalina,47,59.28,37.79
+LJ03,2026-03-01,cafe,cappuccino,878,15.51,3.65
+LJ03,2026-03-01,varejo,capsulas 10 un,110,38.88,25.96
+LJ03,2026-03-01,bebidas geladas,cha gelado da casa,270,13.24,4.25
+LJ03,2026-03-01,cafes,coado 300ml,905,11.05,2.32
+LJ03,2026-03-01,geladas,cold brew 400ml,520,16.8,5.05
+LJ03,2026-03-01,doces,cookie de castanha,367,11.25,4.53
+LJ03,2026-03-01,salgados,croissant de queijo,506,17.97,9.31
+LJ03,2026-03-01,salgados,empada de palmito,324,15.19,8.26
+LJ03,2026-03-01,cafe,espresso,1128,8.52,1.65
+LJ03,2026-03-01,bebidas geladas,frappe turmalina,431,21.27,7.78
+LJ03,2026-03-01,cafe,latte,756,15.9,3.64
+LJ03,2026-03-01,bebidas geladas,limonada suica,234,14.19,4.64
+LJ03,2026-03-01,cafe,mocha,480,18.46,5.02
+LJ03,2026-03-01,salgados,pao de queijo 2 un,1039,12.0,5.94
+LJ03,2026-03-01,salgados,sanduiche de frango,355,27.54,14.85
+LJ03,2026-03-01,doces,torta de limao fatia,216,17.0,7.23
+LJ03,2026-04-01,doces,bolo de cenoura fatia,245,13.75,5.7
+LJ03,2026-04-01,doces,brownie,425,13.98,6.1
+LJ03,2026-04-01,graos e varejo,cafe em graos 250g,130,42.88,28.43
+LJ03,2026-04-01,graos e varejo,cafe em graos 500g,86,73.71,50.44
+LJ03,2026-04-01,graos e varejo,caneca turmalina,41,60.12,36.76
+LJ03,2026-04-01,cafes,cappuccino,956,15.96,3.51
+LJ03,2026-04-01,varejo,capsulas 10 un,103,37.83,27.06
+LJ03,2026-04-01,bebidas geladas,cha gelado da casa,293,12.75,4.11
+LJ03,2026-04-01,cafes,coado 300ml,828,11.11,2.25
+LJ03,2026-04-01,bebidas geladas,cold brew 400ml,504,17.19,5.35
+LJ03,2026-04-01,doces,cookie de castanha,334,11.31,4.67
+LJ03,2026-04-01,salgados,croissant de queijo,469,18.53,10.02
+LJ03,2026-04-01,salgados,empada de palmito,344,15.36,8.5
+LJ03,2026-04-01,cafes,espresso,913,8.46,1.73
+LJ03,2026-04-01,geladas,frappe turmalina,370,20.4,7.78
+LJ03,2026-04-01,cafe,latte,736,16.03,3.75
+LJ03,2026-04-01,bebidas geladas,limonada suica,246,14.08,4.51
+LJ03,2026-04-01,cafe,mocha,460,18.26,4.77
+LJ03,2026-04-01,salgados,pao de queijo 2 un,885,11.9,6.12
+LJ03,2026-04-01,salgados,sanduiche de frango,397,27.15,15.79
+LJ03,2026-04-01,doces,torta de limao fatia,221,16.98,7.73
+LJ03,2026-05-01,doces,bolo de cenoura fatia,311,13.53,5.42
+LJ03,2026-05-01,doces,brownie,505,14.23,6.0
+LJ03,2026-05-01,varejo,cafe em graos 250g,151,42.1,27.62
+LJ03,2026-05-01,graos e varejo,cafe em graos 500g,94,72.68,51.18
+LJ03,2026-05-01,graos e varejo,caneca turmalina,53,60.6,39.79
+LJ03,2026-05-01,cafe,cappuccino,1152,15.88,3.6
+LJ03,2026-05-01,graos e varejo,capsulas 10 un,114,37.16,27.98
+LJ03,2026-05-01,geladas,cha gelado da casa,338,12.65,4.26
+LJ03,2026-05-01,cafe,coado 300ml,931,10.69,2.31
+LJ03,2026-05-01,bebidas geladas,cold brew 400ml,517,16.79,4.87
+LJ03,2026-05-01,doces,cookie de castanha,416,11.26,4.55
+LJ03,2026-05-01,salgados,croissant de queijo,513,17.53,9.29
+LJ03,2026-05-01,salgados,empada de palmito,346,15.13,7.87
+LJ03,2026-05-01,cafe,espresso,1173,8.27,1.73
+LJ03,2026-05-01,geladas,frappe turmalina,470,21.34,7.87
+LJ03,2026-05-01,cafe,latte,862,15.92,3.98
+LJ03,2026-05-01,geladas,limonada suica,235,13.94,4.56
+LJ03,2026-05-01,cafe,mocha,507,18.0,4.91
+LJ03,2026-05-01,salgados,pao de queijo 2 un,1134,12.0,6.41
+LJ03,2026-05-01,salgados,sanduiche de frango,423,26.54,14.94
+LJ03,2026-05-01,doces,torta de limao fatia,224,16.75,7.12
+LJ03,2026-06-01,doces,bolo de cenoura fatia,279,13.55,5.36
+LJ03,2026-06-01,doces,brownie,465,14.13,5.92
+LJ03,2026-06-01,graos e varejo,cafe em graos 250g,137,42.85,26.41
+LJ03,2026-06-01,varejo,cafe em graos 500g,86,75.22,50.13
+LJ03,2026-06-01,graos e varejo,caneca turmalina,52,59.75,39.48
+LJ03,2026-06-01,cafe,cappuccino,947,15.31,3.63
+LJ03,2026-06-01,graos e varejo,capsulas 10 un,108,37.87,26.38
+LJ03,2026-06-01,geladas,cha gelado da casa,308,13.29,4.31
+LJ03,2026-06-01,cafe,coado 300ml,1010,10.98,2.39
+LJ03,2026-06-01,geladas,cold brew 400ml,561,17.34,5.22
+LJ03,2026-06-01,doces,cookie de castanha,449,10.82,4.51
+LJ03,2026-06-01,salgados,croissant de queijo,573,18.39,9.7
+LJ03,2026-06-01,salgados,empada de palmito,375,15.13,7.78
+LJ03,2026-06-01,cafes,espresso,1072,8.34,1.68
+LJ03,2026-06-01,bebidas geladas,frappe turmalina,397,20.71,7.66
+LJ03,2026-06-01,cafe,latte,823,16.0,3.64
+LJ03,2026-06-01,bebidas geladas,limonada suica,273,13.87,4.52
+LJ03,2026-06-01,cafe,mocha,505,18.81,4.9
+LJ03,2026-06-01,salgados,pao de queijo 2 un,1117,12.13,6.28
+LJ03,2026-06-01,salgados,sanduiche de frango,421,26.31,14.93
+LJ03,2026-06-01,doces,torta de limao fatia,233,16.72,7.33
+LJ04,2026-01-01,doces,bolo de cenoura fatia,399,13.33,5.73
+LJ04,2026-01-01,doces,brownie,661,13.64,5.92
+LJ04,2026-01-01,graos e varejo,cafe em graos 250g,145,42.04,27.75
+LJ04,2026-01-01,graos e varejo,cafe em graos 500g,92,72.92,47.36
+LJ04,2026-01-01,graos e varejo,caneca turmalina,49,58.33,37.89
+LJ04,2026-01-01,cafe,cappuccino,1379,15.06,3.57
+LJ04,2026-01-01,graos e varejo,capsulas 10 un,117,38.56,26.81
+LJ04,2026-01-01,bebidas geladas,cha gelado da casa,477,13.32,4.2
+LJ04,2026-01-01,cafes,coado 300ml,1240,11.24,2.21
+LJ04,2026-01-01,geladas,cold brew 400ml,855,17.26,4.91
+LJ04,2026-01-01,doces,cookie de castanha,626,11.3,4.87
+LJ04,2026-01-01,salgados,croissant de queijo,791,17.66,9.28
+LJ04,2026-01-01,salgados,empada de palmito,551,15.11,8.19
+LJ04,2026-01-01,cafe,espresso,1512,8.52,1.76
+LJ04,2026-01-01,bebidas geladas,frappe turmalina,732,21.42,7.59
+LJ04,2026-01-01,cafe,latte,1081,16.35,3.67
+LJ04,2026-01-01,bebidas geladas,limonada suica,402,13.72,4.79
+LJ04,2026-01-01,cafe,mocha,610,18.35,4.66
+LJ04,2026-01-01,salgados,pao de queijo 2 un,1453,11.85,6.33
+LJ04,2026-01-01,salgados,sanduiche de frango,579,27.15,14.96
+LJ04,2026-01-01,doces,torta de limao fatia,314,17.47,7.05
+LJ04,2026-02-01,doces,bolo de cenoura fatia,348,13.3,5.69
+LJ04,2026-02-01,doces,brownie,603,14.41,6.38
+LJ04,2026-02-01,graos e varejo,cafe em graos 250g,138,43.05,26.97
+LJ04,2026-02-01,graos e varejo,cafe em graos 500g,76,72.27,51.04
+LJ04,2026-02-01,varejo,caneca turmalina,43,57.75,39.39
+LJ04,2026-02-01,cafe,cappuccino,1065,15.51,3.66
+LJ04,2026-02-01,graos e varejo,capsulas 10 un,95,37.81,27.45
+LJ04,2026-02-01,bebidas geladas,cha gelado da casa,438,13.38,4.06
+LJ04,2026-02-01,cafe,coado 300ml,955,10.92,2.28
+LJ04,2026-02-01,bebidas geladas,cold brew 400ml,769,16.92,4.86
+LJ04,2026-02-01,doces,cookie de castanha,471,11.33,4.72
+LJ04,2026-02-01,salgados,croissant de queijo,631,18.46,9.68
+LJ04,2026-02-01,salgados,empada de palmito,461,15.08,8.48
+LJ04,2026-02-01,cafe,espresso,1255,8.51,1.71
+LJ04,2026-02-01,bebidas geladas,frappe turmalina,619,21.17,7.63
+LJ04,2026-02-01,cafe,latte,871,16.26,3.8
+LJ04,2026-02-01,bebidas geladas,limonada suica,362,14.02,4.73
+LJ04,2026-02-01,cafe,mocha,564,18.54,4.99
+LJ04,2026-02-01,salgados,pao de queijo 2 un,1467,12.33,6.2
+LJ04,2026-02-01,salgados,sanduiche de frango,559,26.48,15.98
+LJ04,2026-02-01,doces,torta de limao fatia,300,16.51,7.46
+LJ04,2026-03-01,doces,bolo de cenoura fatia,436,13.7,5.41
+LJ04,2026-03-01,doces,brownie,685,14.15,6.22
+LJ04,2026-03-01,graos e varejo,cafe em graos 250g,158,42.97,26.54
+LJ04,2026-03-01,graos e varejo,cafe em graos 500g,88,73.67,49.92
+LJ04,2026-03-01,graos e varejo,caneca turmalina,51,59.98,36.86
+LJ04,2026-03-01,cafe,cappuccino,1295,15.35,3.49
+LJ04,2026-03-01,graos e varejo,capsulas 10 un,119,37.37,25.96
+LJ04,2026-03-01,bebidas geladas,cha gelado da casa,509,13.21,4.05
+LJ04,2026-03-01,cafe,coado 300ml,1098,11.17,2.26
+LJ04,2026-03-01,geladas,cold brew 400ml,824,16.79,5.2
+LJ04,2026-03-01,doces,cookie de castanha,520,11.29,4.76
+LJ04,2026-03-01,salgados,croissant de queijo,841,18.53,9.99
+LJ04,2026-03-01,salgados,empada de palmito,486,14.56,8.35
+LJ04,2026-03-01,cafe,espresso,1470,8.42,1.74
+LJ04,2026-03-01,bebidas geladas,frappe turmalina,731,20.73,7.96
+LJ04,2026-03-01,cafe,latte,1148,16.33,3.89
+LJ04,2026-03-01,bebidas geladas,limonada suica,422,13.98,4.5
+LJ04,2026-03-01,cafe,mocha,583,18.03,4.69
+LJ04,2026-03-01,salgados,pao de queijo 2 un,1512,12.08,6.35
+LJ04,2026-03-01,salgados,sanduiche de frango,630,27.44,14.82
+LJ04,2026-03-01,doces,torta de limao fatia,334,16.88,7.54
+LJ04,2026-04-01,doces,bolo de cenoura fatia,407,13.35,5.82
+LJ04,2026-04-01,doces,brownie,597,13.97,6.19
+LJ04,2026-04-01,graos e varejo,cafe em graos 250g,148,42.22,28.43
+LJ04,2026-04-01,graos e varejo,cafe em graos 500g,103,73.57,48.54
+LJ04,2026-04-01,graos e varejo,caneca turmalina,49,59.65,36.76
+LJ04,2026-04-01,cafes,cappuccino,1373,15.2,3.62
+LJ04,2026-04-01,varejo,capsulas 10 un,113,37.89,27.66
+LJ04,2026-04-01,bebidas geladas,cha gelado da casa,508,13.1,4.37
+LJ04,2026-04-01,cafe,coado 300ml,1307,10.85,2.24
+LJ04,2026-04-01,bebidas geladas,cold brew 400ml,907,17.17,5.03
+LJ04,2026-04-01,doces,cookie de castanha,554,10.94,4.75
+LJ04,2026-04-01,salgados,croissant de queijo,870,18.46,9.66
+LJ04,2026-04-01,salgados,empada de palmito,515,14.98,7.9
+LJ04,2026-04-01,cafes,espresso,1278,8.47,1.66
+LJ04,2026-04-01,bebidas geladas,frappe turmalina,706,21.01,7.44
+LJ04,2026-04-01,cafe,latte,1017,15.56,3.66
+LJ04,2026-04-01,bebidas geladas,limonada suica,439,14.13,4.44
+LJ04,2026-04-01,cafe,mocha,653,18.91,4.88
+LJ04,2026-04-01,salgados,pao de queijo 2 un,1456,12.33,6.04
+LJ04,2026-04-01,salgados,sanduiche de frango,548,26.24,15.7
+LJ04,2026-04-01,doces,torta de limao fatia,333,16.97,7.48
+LJ04,2026-05-01,doces,bolo de cenoura fatia,483,13.9,5.86
+LJ04,2026-05-01,doces,brownie,713,13.9,5.87
+LJ04,2026-05-01,graos e varejo,cafe em graos 250g,155,41.51,26.71
+LJ04,2026-05-01,graos e varejo,cafe em graos 500g,108,75.95,48.92
+LJ04,2026-05-01,graos e varejo,caneca turmalina,62,57.51,37.93
+LJ04,2026-05-01,cafe,cappuccino,1354,15.16,3.43
+LJ04,2026-05-01,graos e varejo,capsulas 10 un,126,37.99,27.98
+LJ04,2026-05-01,bebidas geladas,cha gelado da casa,591,12.66,4.02
+LJ04,2026-05-01,cafe,coado 300ml,1299,11.17,2.19
+LJ04,2026-05-01,geladas,cold brew 400ml,939,16.85,5.15
+LJ04,2026-05-01,doces,cookie de castanha,716,11.04,4.77
+LJ04,2026-05-01,salgados,croissant de queijo,932,17.71,9.3
+LJ04,2026-05-01,salgados,empada de palmito,584,15.1,7.74
+LJ04,2026-05-01,cafe,espresso,1484,8.65,1.71
+LJ04,2026-05-01,bebidas geladas,frappe turmalina,835,21.62,7.23
+LJ04,2026-05-01,cafes,latte,1178,16.41,3.78
+LJ04,2026-05-01,bebidas geladas,limonada suica,480,14.2,4.4
+LJ04,2026-05-01,cafe,mocha,671,18.37,5.1
+LJ04,2026-05-01,salgados,pao de queijo 2 un,1830,11.94,6.48
+LJ04,2026-05-01,salgados,sanduiche de frango,618,27.54,15.39
+LJ04,2026-05-01,doces,torta de limao fatia,374,16.91,7.27
+LJ04,2026-06-01,doces,bolo de cenoura fatia,419,13.54,5.33
+LJ04,2026-06-01,doces,brownie,656,13.69,6.1
+LJ04,2026-06-01,varejo,cafe em graos 250g,148,42.03,28.58
+LJ04,2026-06-01,varejo,cafe em graos 500g,96,74.5,49.28
+LJ04,2026-06-01,graos e varejo,caneca turmalina,52,58.08,37.6
+LJ04,2026-06-01,cafe,cappuccino,1350,15.93,3.58
+LJ04,2026-06-01,varejo,capsulas 10 un,130,38.95,27.74
+LJ04,2026-06-01,geladas,cha gelado da casa,585,13.15,4.38
+LJ04,2026-06-01,cafe,coado 300ml,1220,11.15,2.37
+LJ04,2026-06-01,geladas,cold brew 400ml,944,17.4,5.26
+LJ04,2026-06-01,doces,cookie de castanha,618,10.97,4.87
+LJ04,2026-06-01,salgados,croissant de queijo,841,18.28,9.97
+LJ04,2026-06-01,salgados,empada de palmito,561,15.06,7.95
+LJ04,2026-06-01,cafe,espresso,1463,8.25,1.78
+LJ04,2026-06-01,geladas,frappe turmalina,737,20.69,7.41
+LJ04,2026-06-01,cafes,latte,1144,15.93,3.93
+LJ04,2026-06-01,geladas,limonada suica,486,14.05,4.75
+LJ04,2026-06-01,cafes,mocha,666,18.29,4.73
+LJ04,2026-06-01,salgados,pao de queijo 2 un,1874,12.28,6.13
+LJ04,2026-06-01,salgados,sanduiche de frango,610,26.44,15.69
+LJ04,2026-06-01,doces,torta de limao fatia,389,16.65,7.5
+LJ05,2026-01-01,doces,bolo de cenoura fatia,140,13.65,5.67
+LJ05,2026-01-01,doces,brownie,251,14.32,6.11
+LJ05,2026-01-01,graos e varejo,cafe em graos 250g,27,41.2,27.75
+LJ05,2026-01-01,varejo,cafe em graos 500g,18,72.48,48.02
+LJ05,2026-01-01,graos e varejo,caneca turmalina,9,58.64,36.17
+LJ05,2026-01-01,cafe,cappuccino,1295,15.89,3.56
+LJ05,2026-01-01,varejo,capsulas 10 un,19,39.11,27.02
+LJ05,2026-01-01,geladas,cha gelado da casa,276,12.76,4.22
+LJ05,2026-01-01,cafes,coado 300ml,1098,11.06,2.36
+LJ05,2026-01-01,geladas,cold brew 400ml,502,16.93,5.28
+LJ05,2026-01-01,doces,cookie de castanha,194,11.0,4.52
+LJ05,2026-01-01,salgados,croissant de queijo,389,18.0,9.88
+LJ05,2026-01-01,salgados,empada de palmito,262,15.15,7.97
+LJ05,2026-01-01,cafes,espresso,1490,8.65,1.75
+LJ05,2026-01-01,bebidas geladas,frappe turmalina,344,21.49,7.7
+LJ05,2026-01-01,cafe,latte,1051,16.22,3.71
+LJ05,2026-01-01,geladas,limonada suica,234,14.28,4.63
+LJ05,2026-01-01,cafes,mocha,623,18.94,5.13
+LJ05,2026-01-01,salgados,pao de queijo 2 un,768,11.73,6.19
+LJ05,2026-01-01,salgados,sanduiche de frango,305,27.06,14.92
+LJ05,2026-01-01,doces,torta de limao fatia,109,16.74,7.58
+LJ05,2026-02-01,doces,bolo de cenoura fatia,150,13.35,5.82
+LJ05,2026-02-01,doces,brownie,221,14.02,6.37
+LJ05,2026-02-01,graos e varejo,cafe em graos 250g,24,41.9,28.17
+LJ05,2026-02-01,varejo,cafe em graos 500g,15,71.88,48.49
+LJ05,2026-02-01,graos e varejo,caneca turmalina,8,60.45,36.36
+LJ05,2026-02-01,cafe,cappuccino,1286,15.3,3.76
+LJ05,2026-02-01,varejo,capsulas 10 un,21,38.76,27.77
+LJ05,2026-02-01,geladas,cha gelado da casa,267,12.92,4.24
+LJ05,2026-02-01,cafe,coado 300ml,1012,11.22,2.27
+LJ05,2026-02-01,bebidas geladas,cold brew 400ml,456,17.33,5.22
+LJ05,2026-02-01,doces,cookie de castanha,201,10.72,4.49
+LJ05,2026-02-01,salgados,croissant de queijo,321,18.34,9.74
+LJ05,2026-02-01,salgados,empada de palmito,206,14.92,7.74
+LJ05,2026-02-01,cafe,espresso,1203,8.62,1.74
+LJ05,2026-02-01,bebidas geladas,frappe turmalina,345,21.04,7.31
+LJ05,2026-02-01,cafes,latte,1111,16.25,3.99
+LJ05,2026-02-01,bebidas geladas,limonada suica,205,14.05,4.82
+LJ05,2026-02-01,cafe,mocha,607,18.5,4.99
+LJ05,2026-02-01,salgados,pao de queijo 2 un,710,11.78,6.41
+LJ05,2026-02-01,salgados,sanduiche de frango,245,27.74,15.88
+LJ05,2026-02-01,doces,torta de limao fatia,101,17.32,7.42
+LJ05,2026-03-01,doces,bolo de cenoura fatia,160,13.31,5.34
+LJ05,2026-03-01,doces,brownie,257,13.64,6.19
+LJ05,2026-03-01,graos e varejo,cafe em graos 250g,29,42.17,28.39
+LJ05,2026-03-01,varejo,cafe em graos 500g,17,74.91,50.8
+LJ05,2026-03-01,varejo,caneca turmalina,11,58.52,39.42
+LJ05,2026-03-01,cafes,cappuccino,1477,15.5,3.64
+LJ05,2026-03-01,varejo,capsulas 10 un,23,37.56,26.94
+LJ05,2026-03-01,bebidas geladas,cha gelado da casa,290,13.32,4.17
+LJ05,2026-03-01,cafes,coado 300ml,1356,10.85,2.22
+LJ05,2026-03-01,bebidas geladas,cold brew 400ml,554,17.18,5.33
+LJ05,2026-03-01,doces,cookie de castanha,221,10.68,4.8
+LJ05,2026-03-01,salgados,croissant de queijo,426,17.79,9.84
+LJ05,2026-03-01,salgados,empada de palmito,244,14.74,8.19
+LJ05,2026-03-01,cafes,espresso,1670,8.33,1.62
+LJ05,2026-03-01,bebidas geladas,frappe turmalina,442,20.4,7.38
+LJ05,2026-03-01,cafe,latte,1205,15.54,3.98
+LJ05,2026-03-01,bebidas geladas,limonada suica,238,14.19,4.42
+LJ05,2026-03-01,cafe,mocha,694,17.97,4.71
+LJ05,2026-03-01,salgados,pao de queijo 2 un,815,11.71,5.94
+LJ05,2026-03-01,salgados,sanduiche de frango,320,26.26,15.65
+LJ05,2026-03-01,doces,torta de limao fatia,125,16.82,7.45
+LJ05,2026-04-01,doces,bolo de cenoura fatia,167,13.58,5.68
+LJ05,2026-04-01,doces,brownie,265,14.37,6.04
+LJ05,2026-04-01,graos e varejo,cafe em graos 250g,29,41.01,28.43
+LJ05,2026-04-01,graos e varejo,cafe em graos 500g,20,74.37,50.85
+LJ05,2026-04-01,graos e varejo,caneca turmalina,10,60.59,39.82
+LJ05,2026-04-01,cafe,cappuccino,1290,15.4,3.64
+LJ05,2026-04-01,varejo,capsulas 10 un,21,38.22,26.57
+LJ05,2026-04-01,bebidas geladas,cha gelado da casa,282,12.91,4.22
+LJ05,2026-04-01,cafe,coado 300ml,1302,10.75,2.28
+LJ05,2026-04-01,bebidas geladas,cold brew 400ml,523,16.96,4.86
+LJ05,2026-04-01,doces,cookie de castanha,207,10.73,4.81
+LJ05,2026-04-01,salgados,croissant de queijo,369,18.54,9.43
+LJ05,2026-04-01,salgados,empada de palmito,262,14.61,8.21
+LJ05,2026-04-01,cafe,espresso,1609,8.73,1.67
+LJ05,2026-04-01,geladas,frappe turmalina,395,20.52,7.84
+LJ05,2026-04-01,cafe,latte,1212,15.81,3.98
+LJ05,2026-04-01,bebidas geladas,limonada suica,247,14.14,4.76
+LJ05,2026-04-01,cafe,mocha,680,18.89,5.08
+LJ05,2026-04-01,salgados,pao de queijo 2 un,762,11.73,6.2
+LJ05,2026-04-01,salgados,sanduiche de frango,328,26.97,15.34
+LJ05,2026-04-01,doces,torta de limao fatia,114,17.26,7.69
+LJ05,2026-05-01,doces,bolo de cenoura fatia,155,13.24,5.88
+LJ05,2026-05-01,doces,brownie,242,13.86,6.1
+LJ05,2026-05-01,graos e varejo,cafe em graos 250g,30,41.02,26.71
+LJ05,2026-05-01,graos e varejo,cafe em graos 500g,18,75.3,48.92
+LJ05,2026-05-01,graos e varejo,caneca turmalina,12,57.43,39.16
+LJ05,2026-05-01,cafe,cappuccino,1415,15.37,3.74
+LJ05,2026-05-01,varejo,capsulas 10 un,22,36.9,26.09
+LJ05,2026-05-01,bebidas geladas,cha gelado da casa,284,12.89,4.11
+LJ05,2026-05-01,cafe,coado 300ml,1227,10.86,2.36
+LJ05,2026-05-01,bebidas geladas,cold brew 400ml,514,16.84,4.9
+LJ05,2026-05-01,doces,cookie de castanha,227,10.88,4.84
+LJ05,2026-05-01,salgados,croissant de queijo,442,17.73,9.93
+LJ05,2026-05-01,salgados,empada de palmito,254,14.61,7.84
+LJ05,2026-05-01,cafe,espresso,1522,8.3,1.74
+LJ05,2026-05-01,bebidas geladas,frappe turmalina,427,20.96,7.39
+LJ05,2026-05-01,cafe,latte,1268,15.53,3.97
+LJ05,2026-05-01,bebidas geladas,limonada suica,268,13.64,4.69
+LJ05,2026-05-01,cafes,mocha,748,18.62,4.97
+LJ05,2026-05-01,salgados,pao de queijo 2 un,778,12.28,6.35
+LJ05,2026-05-01,salgados,sanduiche de frango,338,27.59,16.17
+LJ05,2026-05-01,doces,torta de limao fatia,121,17.22,7.47
+LJ05,2026-06-01,doces,bolo de cenoura fatia,157,13.23,5.57
+LJ05,2026-06-01,doces,brownie,288,14.03,6.02
+LJ05,2026-06-01,graos e varejo,cafe em graos 250g,33,42.89,27.69
+LJ05,2026-06-01,varejo,cafe em graos 500g,19,72.3,47.9
+LJ05,2026-06-01,graos e varejo,caneca turmalina,10,57.28,36.36
+LJ05,2026-06-01,cafe,cappuccino,1402,15.58,3.55
+LJ05,2026-06-01,graos e varejo,capsulas 10 un,23,38.13,25.97
+LJ05,2026-06-01,bebidas geladas,cha gelado da casa,333,13.32,4.07
+LJ05,2026-06-01,cafe,coado 300ml,1413,10.72,2.24
+LJ05,2026-06-01,bebidas geladas,cold brew 400ml,543,17.35,5.08
+LJ05,2026-06-01,doces,cookie de castanha,230,11.1,4.82
+LJ05,2026-06-01,salgados,croissant de queijo,397,17.54,9.85
+LJ05,2026-06-01,salgados,empada de palmito,296,15.25,8.29
+LJ05,2026-06-01,cafe,espresso,1508,8.69,1.67
+LJ05,2026-06-01,geladas,frappe turmalina,457,20.57,7.41
+LJ05,2026-06-01,cafe,latte,1368,15.94,3.9
+LJ05,2026-06-01,bebidas geladas,limonada suica,244,14.38,4.77
+LJ05,2026-06-01,cafe,mocha,649,18.03,5.06
+LJ05,2026-06-01,salgados,pao de queijo 2 un,876,12.25,6.04
+LJ05,2026-06-01,salgados,sanduiche de frango,351,26.45,15.72
+LJ05,2026-06-01,doces,torta de limao fatia,136,16.61,7.37
+LJ06,2026-01-01,doces,bolo de cenoura fatia,330,13.56,5.35
+LJ06,2026-01-01,doces,brownie,540,14.03,5.97
+LJ06,2026-01-01,varejo,cafe em graos 250g,180,41.04,27.07
+LJ06,2026-01-01,graos e varejo,cafe em graos 500g,124,75.45,49.27
+LJ06,2026-01-01,graos e varejo,caneca turmalina,65,60.07,38.09
+LJ06,2026-01-01,cafe,cappuccino,1004,15.92,3.61
+LJ06,2026-01-01,varejo,capsulas 10 un,135,37.2,26.35
+LJ06,2026-01-01,geladas,cha gelado da casa,309,13.23,4.0
+LJ06,2026-01-01,cafe,coado 300ml,1023,11.08,2.35
+LJ06,2026-01-01,geladas,cold brew 400ml,495,16.61,4.97
+LJ06,2026-01-01,doces,cookie de castanha,488,10.87,4.56
+LJ06,2026-01-01,salgados,croissant de queijo,484,17.57,9.82
+LJ06,2026-01-01,salgados,empada de palmito,311,14.9,8.1
+LJ06,2026-01-01,cafe,espresso,1138,8.54,1.65
+LJ06,2026-01-01,bebidas geladas,frappe turmalina,384,21.14,7.53
+LJ06,2026-01-01,cafe,latte,863,16.44,3.91
+LJ06,2026-01-01,bebidas geladas,limonada suica,247,13.68,4.75
+LJ06,2026-01-01,cafe,mocha,463,18.75,4.94
+LJ06,2026-01-01,salgados,pao de queijo 2 un,964,11.65,6.3
+LJ06,2026-01-01,salgados,sanduiche de frango,328,26.7,15.31
+LJ06,2026-01-01,doces,torta de limao fatia,254,17.01,7.1
+LJ06,2026-02-01,doces,bolo de cenoura fatia,274,13.52,5.82
+LJ06,2026-02-01,doces,brownie,470,14.02,6.18
+LJ06,2026-02-01,varejo,cafe em graos 250g,156,43.24,28.81
+LJ06,2026-02-01,graos e varejo,cafe em graos 500g,109,75.94,48.78
+LJ06,2026-02-01,varejo,caneca turmalina,61,60.37,36.36
+LJ06,2026-02-01,cafe,cappuccino,958,15.35,3.6
+LJ06,2026-02-01,graos e varejo,capsulas 10 un,129,38.55,28.1
+LJ06,2026-02-01,bebidas geladas,cha gelado da casa,242,13.21,4.19
+LJ06,2026-02-01,cafe,coado 300ml,760,11.28,2.27
+LJ06,2026-02-01,bebidas geladas,cold brew 400ml,462,16.67,5.31
+LJ06,2026-02-01,doces,cookie de castanha,432,11.25,4.82
+LJ06,2026-02-01,salgados,croissant de queijo,443,17.74,9.31
+LJ06,2026-02-01,salgados,empada de palmito,268,15.23,8.38
+LJ06,2026-02-01,cafe,espresso,1046,8.53,1.65
+LJ06,2026-02-01,bebidas geladas,frappe turmalina,342,21.62,7.94
+LJ06,2026-02-01,cafe,latte,721,15.93,3.89
+LJ06,2026-02-01,geladas,limonada suica,208,14.3,4.68
+LJ06,2026-02-01,cafe,mocha,470,18.7,4.79
+LJ06,2026-02-01,salgados,pao de queijo 2 un,816,12.08,6.06
+LJ06,2026-02-01,salgados,sanduiche de frango,323,26.89,14.98
+LJ06,2026-02-01,doces,torta de limao fatia,229,17.01,7.22
+LJ06,2026-03-01,doces,bolo de cenoura fatia,356,13.57,5.64
+LJ06,2026-03-01,doces,brownie,570,14.38,6.18
+LJ06,2026-03-01,graos e varejo,cafe em graos 250g,198,40.97,28.39
+LJ06,2026-03-01,graos e varejo,cafe em graos 500g,144,74.13,51.08
+LJ06,2026-03-01,graos e varejo,caneca turmalina,69,60.1,38.92
+LJ06,2026-03-01,cafes,cappuccino,1068,15.85,3.65
+LJ06,2026-03-01,graos e varejo,capsulas 10 un,155,38.85,26.94
+LJ06,2026-03-01,bebidas geladas,cha gelado da casa,324,13.08,4.37
+LJ06,2026-03-01,cafe,coado 300ml,1046,11.18,2.31
+LJ06,2026-03-01,geladas,cold brew 400ml,613,17.19,5.1
+LJ06,2026-03-01,doces,cookie de castanha,527,10.91,4.79
+LJ06,2026-03-01,salgados,croissant de queijo,561,18.53,9.84
+LJ06,2026-03-01,salgados,empada de palmito,368,14.68,8.22
+LJ06,2026-03-01,cafes,espresso,1237,8.73,1.69
+LJ06,2026-03-01,bebidas geladas,frappe turmalina,470,20.65,7.96
+LJ06,2026-03-01,cafe,latte,866,15.83,3.74
+LJ06,2026-03-01,bebidas geladas,limonada suica,250,14.36,4.73
+LJ06,2026-03-01,cafes,mocha,511,18.92,4.94
+LJ06,2026-03-01,salgados,pao de queijo 2 un,1136,12.18,6.06
+LJ06,2026-03-01,salgados,sanduiche de frango,371,27.04,14.95
+LJ06,2026-03-01,doces,torta de limao fatia,286,16.74,7.33
+LJ06,2026-04-01,doces,bolo de cenoura fatia,351,13.59,5.75
+LJ06,2026-04-01,doces,brownie,613,13.78,6.22
+LJ06,2026-04-01,graos e varejo,cafe em graos 250g,212,41.2,26.5
+LJ06,2026-04-01,graos e varejo,cafe em graos 500g,138,73.2,50.85
+LJ06,2026-04-01,varejo,caneca turmalina,78,59.2,39.86
+LJ06,2026-04-01,cafes,cappuccino,1106,15.18,3.49
+LJ06,2026-04-01,graos e varejo,capsulas 10 un,164,37.28,26.95
+LJ06,2026-04-01,bebidas geladas,cha gelado da casa,303,12.95,4.27
+LJ06,2026-04-01,cafe,coado 300ml,1045,11.22,2.31
+LJ06,2026-04-01,bebidas geladas,cold brew 400ml,592,16.76,4.89
+LJ06,2026-04-01,doces,cookie de castanha,508,11.15,4.86
+LJ06,2026-04-01,salgados,croissant de queijo,489,17.8,10.03
+LJ06,2026-04-01,salgados,empada de palmito,325,14.86,8.49
+LJ06,2026-04-01,cafes,espresso,1186,8.6,1.69
+LJ06,2026-04-01,geladas,frappe turmalina,425,21.58,7.7
+LJ06,2026-04-01,cafe,latte,1021,15.81,3.93
+LJ06,2026-04-01,bebidas geladas,limonada suica,278,13.76,4.48
+LJ06,2026-04-01,cafes,mocha,554,18.24,4.67
+LJ06,2026-04-01,salgados,pao de queijo 2 un,1047,11.96,6.4
+LJ06,2026-04-01,salgados,sanduiche de frango,375,26.38,14.7
+LJ06,2026-04-01,doces,torta de limao fatia,272,17.17,7.45
+LJ06,2026-05-01,doces,bolo de cenoura fatia,431,13.33,5.49
+LJ06,2026-05-01,doces,brownie,612,13.96,6.16
+LJ06,2026-05-01,graos e varejo,cafe em graos 250g,223,41.04,27.01
+LJ06,2026-05-01,varejo,cafe em graos 500g,138,74.1,51.18
+LJ06,2026-05-01,varejo,caneca turmalina,71,60.08,36.47
+LJ06,2026-05-01,cafe,cappuccino,1307,15.47,3.65
+LJ06,2026-05-01,varejo,capsulas 10 un,185,37.45,27.82
+LJ06,2026-05-01,geladas,cha gelado da casa,356,13.03,4.08
+LJ06,2026-05-01,cafes,coado 300ml,1182,10.86,2.32
+LJ06,2026-05-01,bebidas geladas,cold brew 400ml,677,16.63,5.06
+LJ06,2026-05-01,doces,cookie de castanha,573,11.13,4.79
+LJ06,2026-05-01,salgados,croissant de queijo,526,17.56,9.44
+LJ06,2026-05-01,salgados,empada de palmito,359,14.88,7.82
+LJ06,2026-05-01,cafe,espresso,1200,8.56,1.73
+LJ06,2026-05-01,geladas,frappe turmalina,513,20.51,7.86
+LJ06,2026-05-01,cafe,latte,1053,15.66,3.78
+LJ06,2026-05-01,bebidas geladas,limonada suica,270,14.21,4.63
+LJ06,2026-05-01,cafe,mocha,581,18.41,4.97
+LJ06,2026-05-01,salgados,pao de queijo 2 un,1166,11.82,6.45
+LJ06,2026-05-01,salgados,sanduiche de frango,454,26.89,15.92
+LJ06,2026-05-01,doces,torta de limao fatia,333,16.7,7.15
+LJ06,2026-06-01,doces,bolo de cenoura fatia,423,13.78,5.66
+LJ06,2026-06-01,doces,brownie,594,14.25,6.09
+LJ06,2026-06-01,graos e varejo,cafe em graos 250g,210,40.87,28.27
+LJ06,2026-06-01,graos e varejo,cafe em graos 500g,135,74.06,51.31
+LJ06,2026-06-01,varejo,caneca turmalina,71,60.25,38.86
+LJ06,2026-06-01,cafe,cappuccino,1108,15.89,3.44
+LJ06,2026-06-01,graos e varejo,capsulas 10 un,166,38.77,26.88
+LJ06,2026-06-01,bebidas geladas,cha gelado da casa,348,13.3,4.02
+LJ06,2026-06-01,cafe,coado 300ml,1215,10.71,2.25
+LJ06,2026-06-01,bebidas geladas,cold brew 400ml,660,16.69,4.97
+LJ06,2026-06-01,doces,cookie de castanha,602,11.33,4.56
+LJ06,2026-06-01,salgados,croissant de queijo,602,18.28,10.18
+LJ06,2026-06-01,salgados,empada de palmito,377,15.38,8.41
+LJ06,2026-06-01,cafes,espresso,1379,8.74,1.73
+LJ06,2026-06-01,bebidas geladas,frappe turmalina,468,21.52,7.75
+LJ06,2026-06-01,cafe,latte,914,15.81,3.98
+LJ06,2026-06-01,bebidas geladas,limonada suica,305,14.19,4.46
+LJ06,2026-06-01,cafe,mocha,561,18.39,5.11
+LJ06,2026-06-01,salgados,pao de queijo 2 un,1202,12.31,5.95
+LJ06,2026-06-01,salgados,sanduiche de frango,428,27.36,15.28
+LJ06,2026-06-01,doces,torta de limao fatia,313,17.49,7.34
+LJ07,2026-01-01,doces,bolo de cenoura fatia,343,13.65,5.81
+LJ07,2026-01-01,doces,brownie,483,13.59,5.99
+LJ07,2026-01-01,varejo,cafe em graos 250g,115,41.81,27.07
+LJ07,2026-01-01,graos e varejo,cafe em graos 500g,67,73.21,49.27
+LJ07,2026-01-01,graos e varejo,caneca turmalina,38,60.42,38.39
+LJ07,2026-01-01,cafe,cappuccino,1054,15.15,3.75
+LJ07,2026-01-01,varejo,capsulas 10 un,92,36.87,26.68
+LJ07,2026-01-01,bebidas geladas,cha gelado da casa,423,13.01,4.14
+LJ07,2026-01-01,cafes,coado 300ml,1069,11.2,2.19
+LJ07,2026-01-01,bebidas geladas,cold brew 400ml,629,17.12,4.98
+LJ07,2026-01-01,doces,cookie de castanha,455,11.22,4.8
+LJ07,2026-01-01,salgados,croissant de queijo,561,18.06,9.79
+LJ07,2026-01-01,salgados,empada de palmito,407,14.67,8.39
+LJ07,2026-01-01,cafe,espresso,1235,8.74,1.66
+LJ07,2026-01-01,bebidas geladas,frappe turmalina,553,20.95,7.76
+LJ07,2026-01-01,cafes,latte,941,15.68,3.65
+LJ07,2026-01-01,geladas,limonada suica,354,13.66,4.48
+LJ07,2026-01-01,cafe,mocha,554,18.96,4.89
+LJ07,2026-01-01,salgados,pao de queijo 2 un,1210,11.89,6.32
+LJ07,2026-01-01,salgados,sanduiche de frango,422,26.96,16.04
+LJ07,2026-01-01,doces,torta de limao fatia,278,16.76,7.69
+LJ07,2026-02-01,doces,bolo de cenoura fatia,194,13.41,5.79
+LJ07,2026-02-01,doces,brownie,297,13.93,6.17
+LJ07,2026-02-01,graos e varejo,cafe em graos 250g,71,42.19,26.41
+LJ07,2026-02-01,graos e varejo,cafe em graos 500g,40,74.78,47.56
+LJ07,2026-02-01,graos e varejo,caneca turmalina,23,60.0,38.23
+LJ07,2026-02-01,cafe,cappuccino,674,15.37,3.54
+LJ07,2026-02-01,graos e varejo,capsulas 10 un,55,39.05,28.1
+LJ07,2026-02-01,geladas,cha gelado da casa,209,13.1,4.11
+LJ07,2026-02-01,cafe,coado 300ml,600,10.96,2.23
+LJ07,2026-02-01,bebidas geladas,cold brew 400ml,422,17.25,5.05
+LJ07,2026-02-01,doces,cookie de castanha,286,10.79,4.52
+LJ07,2026-02-01,salgados,croissant de queijo,382,17.65,9.27
+LJ07,2026-02-01,salgados,empada de palmito,243,14.89,8.4
+LJ07,2026-02-01,cafes,espresso,753,8.26,1.64
+LJ07,2026-02-01,geladas,frappe turmalina,334,21.0,7.55
+LJ07,2026-02-01,cafe,latte,523,15.73,3.97
+LJ07,2026-02-01,bebidas geladas,limonada suica,182,14.2,4.59
+LJ07,2026-02-01,cafes,mocha,309,18.71,5.08
+LJ07,2026-02-01,salgados,pao de queijo 2 un,725,12.32,6.43
+LJ07,2026-02-01,salgados,sanduiche de frango,293,26.38,15.09
+LJ07,2026-02-01,doces,torta de limao fatia,142,16.85,7.32
+LJ07,2026-03-01,doces,bolo de cenoura fatia,297,13.84,5.37
+LJ07,2026-03-01,doces,brownie,463,13.97,6.16
+LJ07,2026-03-01,graos e varejo,cafe em graos 250g,121,42.06,28.39
+LJ07,2026-03-01,graos e varejo,cafe em graos 500g,76,74.02,51.08
+LJ07,2026-03-01,varejo,caneca turmalina,41,58.91,38.16
+LJ07,2026-03-01,cafe,cappuccino,1006,15.76,3.71
+LJ07,2026-03-01,varejo,capsulas 10 un,92,39.07,26.94
+LJ07,2026-03-01,bebidas geladas,cha gelado da casa,363,13.19,4.18
+LJ07,2026-03-01,cafe,coado 300ml,1026,10.95,2.31
+LJ07,2026-03-01,bebidas geladas,cold brew 400ml,703,17.33,5.29
+LJ07,2026-03-01,doces,cookie de castanha,470,11.27,4.78
+LJ07,2026-03-01,salgados,croissant de queijo,654,17.55,9.82
+LJ07,2026-03-01,salgados,empada de palmito,391,14.81,8.41
+LJ07,2026-03-01,cafe,espresso,1170,8.53,1.71
+LJ07,2026-03-01,bebidas geladas,frappe turmalina,508,21.36,7.58
+LJ07,2026-03-01,cafe,latte,890,16.27,3.62
+LJ07,2026-03-01,bebidas geladas,limonada suica,297,13.81,4.56
+LJ07,2026-03-01,cafe,mocha,539,18.76,4.95
+LJ07,2026-03-01,salgados,pao de queijo 2 un,1177,11.88,5.89
+LJ07,2026-03-01,salgados,sanduiche de frango,490,27.49,15.87
+LJ07,2026-03-01,doces,torta de limao fatia,249,17.36,7.28
+LJ07,2026-04-01,doces,bolo de cenoura fatia,326,13.34,5.35
+LJ07,2026-04-01,doces,brownie,535,14.41,5.91
+LJ07,2026-04-01,graos e varejo,cafe em graos 250g,115,43.12,28.31
+LJ07,2026-04-01,graos e varejo,cafe em graos 500g,81,75.75,50.52
+LJ07,2026-04-01,varejo,caneca turmalina,46,59.51,37.23
+LJ07,2026-04-01,cafe,cappuccino,1245,15.39,3.71
+LJ07,2026-04-01,graos e varejo,capsulas 10 un,92,37.12,26.14
+LJ07,2026-04-01,geladas,cha gelado da casa,389,12.87,4.18
+LJ07,2026-04-01,cafe,coado 300ml,1081,11.27,2.38
+LJ07,2026-04-01,bebidas geladas,cold brew 400ml,665,16.71,4.85
+LJ07,2026-04-01,doces,cookie de castanha,467,10.86,4.82
+LJ07,2026-04-01,salgados,croissant de queijo,671,18.41,9.69
+LJ07,2026-04-01,salgados,empada de palmito,388,14.65,8.21
+LJ07,2026-04-01,cafe,espresso,1233,8.45,1.68
+LJ07,2026-04-01,bebidas geladas,frappe turmalina,537,21.56,7.46
+LJ07,2026-04-01,cafes,latte,902,15.68,3.96
+LJ07,2026-04-01,bebidas geladas,limonada suica,350,13.91,4.78
+LJ07,2026-04-01,cafes,mocha,590,18.12,4.76
+LJ07,2026-04-01,salgados,pao de queijo 2 un,1083,12.06,6.07
+LJ07,2026-04-01,salgados,sanduiche de frango,461,26.25,15.83
+LJ07,2026-04-01,doces,torta de limao fatia,265,17.44,7.17
+LJ07,2026-05-01,doces,bolo de cenoura fatia,403,13.75,5.56
+LJ07,2026-05-01,doces,brownie,551,14.24,6.15
+LJ07,2026-05-01,varejo,cafe em graos 250g,140,41.33,28.52
+LJ07,2026-05-01,graos e varejo,cafe em graos 500g,83,74.9,51.05
+LJ07,2026-05-01,graos e varejo,caneca turmalina,44,58.37,39.36
+LJ07,2026-05-01,cafe,cappuccino,1224,15.94,3.61
+LJ07,2026-05-01,graos e varejo,capsulas 10 un,95,37.67,27.36
+LJ07,2026-05-01,bebidas geladas,cha gelado da casa,426,12.74,4.29
+LJ07,2026-05-01,cafe,coado 300ml,1278,10.75,2.22
+LJ07,2026-05-01,bebidas geladas,cold brew 400ml,775,16.76,4.85
+LJ07,2026-05-01,doces,cookie de castanha,566,11.28,4.67
+LJ07,2026-05-01,salgados,croissant de queijo,619,17.68,10.03
+LJ07,2026-05-01,salgados,empada de palmito,435,14.95,8.41
+LJ07,2026-05-01,cafe,espresso,1500,8.52,1.71
+LJ07,2026-05-01,geladas,frappe turmalina,600,21.37,7.67
+LJ07,2026-05-01,cafe,latte,1127,15.91,3.67
+LJ07,2026-05-01,geladas,limonada suica,379,14.11,4.42
+LJ07,2026-05-01,cafe,mocha,569,18.04,4.67
+LJ07,2026-05-01,salgados,pao de queijo 2 un,1241,12.06,6.07
+LJ07,2026-05-01,salgados,sanduiche de frango,488,27.32,14.83
+LJ07,2026-05-01,doces,torta de limao fatia,285,16.57,7.65
+LJ07,2026-06-01,doces,bolo de cenoura fatia,350,13.42,5.83
+LJ07,2026-06-01,doces,brownie,526,14.34,6.17
+LJ07,2026-06-01,graos e varejo,cafe em graos 250g,138,41.04,28.43
+LJ07,2026-06-01,graos e varejo,cafe em graos 500g,83,72.07,51.31
+LJ07,2026-06-01,graos e varejo,caneca turmalina,44,60.25,38.86
+LJ07,2026-06-01,cafe,cappuccino,1193,15.39,3.57
+LJ07,2026-06-01,graos e varejo,capsulas 10 un,103,37.24,27.73
+LJ07,2026-06-01,bebidas geladas,cha gelado da casa,442,13.16,4.16
+LJ07,2026-06-01,cafes,coado 300ml,1120,11.01,2.26
+LJ07,2026-06-01,geladas,cold brew 400ml,709,17.47,4.97
+LJ07,2026-06-01,doces,cookie de castanha,459,10.88,4.66
+LJ07,2026-06-01,salgados,croissant de queijo,643,18.45,9.76
+LJ07,2026-06-01,salgados,empada de palmito,406,14.97,8.4
+LJ07,2026-06-01,cafe,espresso,1241,8.35,1.73
+LJ07,2026-06-01,bebidas geladas,frappe turmalina,577,20.6,7.97
+LJ07,2026-06-01,cafe,latte,977,15.68,3.97
+LJ07,2026-06-01,bebidas geladas,limonada suica,380,13.91,4.71
+LJ07,2026-06-01,cafe,mocha,536,17.98,4.97
+LJ07,2026-06-01,salgados,pao de queijo 2 un,1188,12.25,6.49
+LJ07,2026-06-01,salgados,sanduiche de frango,496,26.92,14.94
+LJ07,2026-06-01,doces,torta de limao fatia,307,16.85,7.11
+LJ08,2026-01-01,doces,bolo de cenoura fatia,346,13.69,5.35
+LJ08,2026-01-01,doces,brownie,450,14.27,6.26
+LJ08,2026-01-01,graos e varejo,cafe em graos 250g,68,41.63,27.07
+LJ08,2026-01-01,graos e varejo,cafe em graos 500g,44,75.28,47.87
+LJ08,2026-01-01,graos e varejo,caneca turmalina,24,59.27,36.82
+LJ08,2026-01-01,cafe,cappuccino,723,15.16,3.74
+LJ08,2026-01-01,varejo,capsulas 10 un,51,37.42,26.68
+LJ08,2026-01-01,bebidas geladas,cha gelado da casa,277,13.28,4.08
+LJ08,2026-01-01,cafes,coado 300ml,746,11.32,2.23
+LJ08,2026-01-01,geladas,cold brew 400ml,539,17.38,5.11
+LJ08,2026-01-01,doces,cookie de castanha,424,10.95,4.72
+LJ08,2026-01-01,salgados,croissant de queijo,1056,18.06,9.52
+LJ08,2026-01-01,salgados,empada de palmito,604,14.98,8.26
+LJ08,2026-01-01,cafe,espresso,843,8.67,1.63
+LJ08,2026-01-01,bebidas geladas,frappe turmalina,432,20.87,7.77
+LJ08,2026-01-01,cafe,latte,638,15.67,3.79
+LJ08,2026-01-01,geladas,limonada suica,229,14.41,4.72
+LJ08,2026-01-01,cafe,mocha,348,18.35,4.8
+LJ08,2026-01-01,salgados,pao de queijo 2 un,2033,12.25,6.18
+LJ08,2026-01-01,salgados,sanduiche de frango,793,27.46,15.59
+LJ08,2026-01-01,doces,torta de limao fatia,248,17.37,7.33
+LJ08,2026-02-01,doces,bolo de cenoura fatia,277,13.17,5.41
+LJ08,2026-02-01,doces,brownie,464,13.72,6.22
+LJ08,2026-02-01,varejo,cafe em graos 250g,62,42.47,26.41
+LJ08,2026-02-01,varejo,cafe em graos 500g,45,72.95,47.56
+LJ08,2026-02-01,graos e varejo,caneca turmalina,22,59.37,39.74
+LJ08,2026-02-01,cafe,cappuccino,661,15.68,3.75
+LJ08,2026-02-01,graos e varejo,capsulas 10 un,54,38.8,25.83
+LJ08,2026-02-01,bebidas geladas,cha gelado da casa,277,13.22,4.23
+LJ08,2026-02-01,cafe,coado 300ml,629,10.9,2.3
+LJ08,2026-02-01,geladas,cold brew 400ml,464,16.7,5.25
+LJ08,2026-02-01,doces,cookie de castanha,459,11.06,4.93
+LJ08,2026-02-01,salgados,croissant de queijo,862,17.95,9.78
+LJ08,2026-02-01,salgados,empada de palmito,580,15.32,8.0
+LJ08,2026-02-01,cafe,espresso,694,8.27,1.62
+LJ08,2026-02-01,bebidas geladas,frappe turmalina,391,21.07,7.27
+LJ08,2026-02-01,cafe,latte,587,15.56,3.86
+LJ08,2026-02-01,bebidas geladas,limonada suica,230,14.04,4.71
+LJ08,2026-02-01,cafe,mocha,359,18.34,5.0
+LJ08,2026-02-01,salgados,pao de queijo 2 un,2002,12.28,6.46
+LJ08,2026-02-01,salgados,sanduiche de frango,704,26.62,14.81
+LJ08,2026-02-01,doces,torta de limao fatia,247,17.19,7.38
+LJ08,2026-03-01,doces,bolo de cenoura fatia,355,13.26,5.82
+LJ08,2026-03-01,doces,brownie,609,13.99,6.31
+LJ08,2026-03-01,graos e varejo,cafe em graos 250g,83,41.59,28.39
+LJ08,2026-03-01,varejo,cafe em graos 500g,53,75.98,50.39
+LJ08,2026-03-01,graos e varejo,caneca turmalina,28,60.71,38.57
+LJ08,2026-03-01,cafe,cappuccino,945,15.54,3.43
+LJ08,2026-03-01,graos e varejo,capsulas 10 un,62,37.26,26.94
+LJ08,2026-03-01,bebidas geladas,cha gelado da casa,324,12.95,4.07
+LJ08,2026-03-01,cafe,coado 300ml,808,11.25,2.26
+LJ08,2026-03-01,bebidas geladas,cold brew 400ml,622,16.69,4.97
+LJ08,2026-03-01,doces,cookie de castanha,511,10.95,4.57
+LJ08,2026-03-01,salgados,croissant de queijo,1138,17.82,9.48
+LJ08,2026-03-01,salgados,empada de palmito,763,14.88,8.39
+LJ08,2026-03-01,cafe,espresso,917,8.49,1.64
+LJ08,2026-03-01,bebidas geladas,frappe turmalina,481,21.31,7.48
+LJ08,2026-03-01,cafe,latte,750,15.88,3.81
+LJ08,2026-03-01,bebidas geladas,limonada suica,291,13.59,4.7
+LJ08,2026-03-01,cafes,mocha,422,18.33,4.83
+LJ08,2026-03-01,salgados,pao de queijo 2 un,2366,11.97,6.42
+LJ08,2026-03-01,salgados,sanduiche de frango,823,27.23,15.56
+LJ08,2026-03-01,doces,torta de limao fatia,311,17.27,7.23
+LJ08,2026-04-01,doces,bolo de cenoura fatia,370,13.77,5.83
+LJ08,2026-04-01,doces,brownie,519,13.87,6.2
+LJ08,2026-04-01,varejo,cafe em graos 250g,73,41.94,28.31
+LJ08,2026-04-01,graos e varejo,cafe em graos 500g,45,73.47,47.76
+LJ08,2026-04-01,graos e varejo,caneca turmalina,25,58.16,39.0
+LJ08,2026-04-01,cafe,cappuccino,736,15.48,3.55
+LJ08,2026-04-01,graos e varejo,capsulas 10 un,57,37.63,27.76
+LJ08,2026-04-01,bebidas geladas,cha gelado da casa,304,12.69,4.41
+LJ08,2026-04-01,cafe,coado 300ml,757,10.67,2.36
+LJ08,2026-04-01,geladas,cold brew 400ml,559,17.01,4.93
+LJ08,2026-04-01,doces,cookie de castanha,493,10.84,4.74
+LJ08,2026-04-01,salgados,croissant de queijo,1029,17.81,9.89
+LJ08,2026-04-01,salgados,empada de palmito,701,15.13,8.47
+LJ08,2026-04-01,cafe,espresso,837,8.37,1.73
+LJ08,2026-04-01,bebidas geladas,frappe turmalina,430,20.57,7.87
+LJ08,2026-04-01,cafes,latte,722,16.46,3.96
+LJ08,2026-04-01,bebidas geladas,limonada suica,278,13.92,4.66
+LJ08,2026-04-01,cafes,mocha,370,18.93,4.68
+LJ08,2026-04-01,salgados,pao de queijo 2 un,2206,12.33,5.91
+LJ08,2026-04-01,salgados,sanduiche de frango,763,26.9,15.26
+LJ08,2026-04-01,doces,torta de limao fatia,278,17.45,7.56
+LJ08,2026-05-01,doces,bolo de cenoura fatia,354,13.12,5.48
+LJ08,2026-05-01,doces,brownie,577,13.9,6.28
+LJ08,2026-05-01,graos e varejo,cafe em graos 250g,82,41.04,28.35
+LJ08,2026-05-01,graos e varejo,cafe em graos 500g,55,73.68,51.28
+LJ08,2026-05-01,graos e varejo,caneca turmalina,29,57.58,36.53
+LJ08,2026-05-01,cafe,cappuccino,984,15.34,3.48
+LJ08,2026-05-01,varejo,capsulas 10 un,71,38.77,25.83
+LJ08,2026-05-01,bebidas geladas,cha gelado da casa,356,13.27,4.37
+LJ08,2026-05-01,cafe,coado 300ml,923,11.24,2.2
+LJ08,2026-05-01,bebidas geladas,cold brew 400ml,614,17.44,4.97
+LJ08,2026-05-01,doces,cookie de castanha,547,11.06,4.61
+LJ08,2026-05-01,salgados,croissant de queijo,1324,18.4,9.55
+LJ08,2026-05-01,salgados,empada de palmito,799,15.44,8.48
+LJ08,2026-05-01,cafe,espresso,1057,8.49,1.71
+LJ08,2026-05-01,bebidas geladas,frappe turmalina,473,21.4,7.88
+LJ08,2026-05-01,cafes,latte,817,16.02,3.71
+LJ08,2026-05-01,geladas,limonada suica,285,14.15,4.47
+LJ08,2026-05-01,cafes,mocha,430,18.94,5.12
+LJ08,2026-05-01,salgados,pao de queijo 2 un,2566,11.94,5.95
+LJ08,2026-05-01,salgados,sanduiche de frango,962,26.46,14.72
+LJ08,2026-05-01,doces,torta de limao fatia,282,16.72,7.34
+LJ08,2026-06-01,doces,bolo de cenoura fatia,353,13.22,5.49
+LJ08,2026-06-01,doces,brownie,627,13.95,5.85
+LJ08,2026-06-01,varejo,cafe em graos 250g,94,41.63,28.57
+LJ08,2026-06-01,graos e varejo,cafe em graos 500g,59,76.15,51.31
+LJ08,2026-06-01,varejo,caneca turmalina,31,58.52,38.86
+LJ08,2026-06-01,cafe,cappuccino,827,15.34,3.56
+LJ08,2026-06-01,graos e varejo,capsulas 10 un,73,37.38,27.38
+LJ08,2026-06-01,bebidas geladas,cha gelado da casa,356,13.05,4.05
+LJ08,2026-06-01,cafes,coado 300ml,783,10.93,2.24
+LJ08,2026-06-01,bebidas geladas,cold brew 400ml,575,17.19,5.07
+LJ08,2026-06-01,doces,cookie de castanha,496,11.15,4.8
+LJ08,2026-06-01,salgados,croissant de queijo,1151,17.82,9.77
+LJ08,2026-06-01,salgados,empada de palmito,857,15.14,7.97
+LJ08,2026-06-01,cafe,espresso,970,8.73,1.65
+LJ08,2026-06-01,bebidas geladas,frappe turmalina,545,21.48,7.93
+LJ08,2026-06-01,cafe,latte,794,15.67,3.9
+LJ08,2026-06-01,bebidas geladas,limonada suica,311,13.64,4.43
+LJ08,2026-06-01,cafe,mocha,407,18.72,4.94
+LJ08,2026-06-01,salgados,pao de queijo 2 un,2242,12.03,6.46
+LJ08,2026-06-01,salgados,sanduiche de frango,923,26.68,15.46
+LJ08,2026-06-01,doces,torta de limao fatia,289,16.8,7.57
+LJ09,2026-01-01,doces,bolo de cenoura fatia,207,13.42,5.49
+LJ09,2026-01-01,doces,brownie,349,13.8,5.9
+LJ09,2026-01-01,varejo,cafe em graos 250g,85,41.99,28.55
+LJ09,2026-01-01,varejo,cafe em graos 500g,57,72.89,50.8
+LJ09,2026-01-01,varejo,caneca turmalina,35,58.65,36.82
+LJ09,2026-01-01,cafe,cappuccino,885,15.28,3.64
+LJ09,2026-01-01,graos e varejo,capsulas 10 un,81,38.1,26.68
+LJ09,2026-01-01,geladas,cha gelado da casa,330,13.04,4.03
+LJ09,2026-01-01,cafe,coado 300ml,729,10.93,2.21
+LJ09,2026-01-01,bebidas geladas,cold brew 400ml,524,17.41,5.11
+LJ09,2026-01-01,doces,cookie de castanha,298,11.24,4.78
+LJ09,2026-01-01,salgados,croissant de queijo,391,17.49,9.52
+LJ09,2026-01-01,salgados,empada de palmito,263,14.87,7.95
+LJ09,2026-01-01,cafe,espresso,811,8.44,1.64
+LJ09,2026-01-01,geladas,frappe turmalina,458,20.53,7.27
+LJ09,2026-01-01,cafe,latte,719,15.6,3.98
+LJ09,2026-01-01,geladas,limonada suica,279,14.33,4.54
+LJ09,2026-01-01,cafe,mocha,357,18.33,4.86
+LJ09,2026-01-01,salgados,pao de queijo 2 un,900,11.73,6.01
+LJ09,2026-01-01,salgados,sanduiche de frango,306,26.3,15.48
+LJ09,2026-01-01,doces,torta de limao fatia,175,16.65,7.41
+LJ09,2026-02-01,doces,bolo de cenoura fatia,189,13.37,5.73
+LJ09,2026-02-01,doces,brownie,338,14.39,5.91
+LJ09,2026-02-01,varejo,cafe em graos 250g,92,42.5,28.19
+LJ09,2026-02-01,graos e varejo,cafe em graos 500g,57,72.69,47.56
+LJ09,2026-02-01,graos e varejo,caneca turmalina,32,57.51,38.21
+LJ09,2026-02-01,cafe,cappuccino,720,15.4,3.58
+LJ09,2026-02-01,graos e varejo,capsulas 10 un,72,38.19,27.49
+LJ09,2026-02-01,bebidas geladas,cha gelado da casa,306,12.78,4.36
+LJ09,2026-02-01,cafe,coado 300ml,631,11.14,2.33
+LJ09,2026-02-01,bebidas geladas,cold brew 400ml,461,16.5,5.29
+LJ09,2026-02-01,doces,cookie de castanha,260,10.88,4.82
+LJ09,2026-02-01,salgados,croissant de queijo,425,17.75,9.94
+LJ09,2026-02-01,salgados,empada de palmito,244,15.21,7.91
+LJ09,2026-02-01,cafes,espresso,850,8.69,1.63
+LJ09,2026-02-01,bebidas geladas,frappe turmalina,388,21.1,7.38
+LJ09,2026-02-01,cafes,latte,662,15.66,3.71
+LJ09,2026-02-01,bebidas geladas,limonada suica,229,13.97,4.57
+LJ09,2026-02-01,cafe,mocha,349,18.22,4.81
+LJ09,2026-02-01,salgados,pao de queijo 2 un,803,11.93,6.11
+LJ09,2026-02-01,salgados,sanduiche de frango,261,26.26,15.65
+LJ09,2026-02-01,doces,torta de limao fatia,153,16.92,7.31
+LJ09,2026-03-01,doces,bolo de cenoura fatia,272,13.42,5.62
+LJ09,2026-03-01,doces,brownie,366,14.29,6.34
+LJ09,2026-03-01,graos e varejo,cafe em graos 250g,92,41.9,26.2
+LJ09,2026-03-01,varejo,cafe em graos 500g,62,74.92,50.39
+LJ09,2026-03-01,graos e varejo,caneca turmalina,40,59.26,39.01
+LJ09,2026-03-01,cafes,cappuccino,829,15.13,3.65
+LJ09,2026-03-01,varejo,capsulas 10 un,83,38.64,27.31
+LJ09,2026-03-01,bebidas geladas,cha gelado da casa,364,12.65,4.05
+LJ09,2026-03-01,cafes,coado 300ml,796,10.74,2.29
+LJ09,2026-03-01,geladas,cold brew 400ml,599,16.53,5.27
+LJ09,2026-03-01,doces,cookie de castanha,324,11.02,4.73
+LJ09,2026-03-01,salgados,croissant de queijo,471,17.82,9.74
+LJ09,2026-03-01,salgados,empada de palmito,287,15.12,7.92
+LJ09,2026-03-01,cafe,espresso,993,8.64,1.76
+LJ09,2026-03-01,bebidas geladas,frappe turmalina,484,20.43,7.23
+LJ09,2026-03-01,cafe,latte,781,16.27,3.69
+LJ09,2026-03-01,bebidas geladas,limonada suica,309,14.24,4.55
+LJ09,2026-03-01,cafe,mocha,433,18.47,4.84
+LJ09,2026-03-01,salgados,pao de queijo 2 un,967,11.88,6.15
+LJ09,2026-03-01,salgados,sanduiche de frango,341,26.75,15.12
+LJ09,2026-03-01,doces,torta de limao fatia,204,17.45,7.18
+LJ09,2026-04-01,doces,bolo de cenoura fatia,231,13.9,5.77
+LJ09,2026-04-01,doces,brownie,329,14.22,6.37
+LJ09,2026-04-01,varejo,cafe em graos 250g,94,41.41,27.73
+LJ09,2026-04-01,graos e varejo,cafe em graos 500g,63,75.31,48.86
+LJ09,2026-04-01,varejo,caneca turmalina,30,60.57,39.0
+LJ09,2026-04-01,cafe,cappuccino,853,15.69,3.55
+LJ09,2026-04-01,graos e varejo,capsulas 10 un,78,37.55,27.76
+LJ09,2026-04-01,geladas,cha gelado da casa,317,12.84,4.28
+LJ09,2026-04-01,cafe,coado 300ml,711,10.94,2.41
+LJ09,2026-04-01,geladas,cold brew 400ml,553,17.42,5.19
+LJ09,2026-04-01,doces,cookie de castanha,349,10.93,4.59
+LJ09,2026-04-01,salgados,croissant de queijo,439,18.01,10.16
+LJ09,2026-04-01,salgados,empada de palmito,281,14.88,8.44
+LJ09,2026-04-01,cafe,espresso,911,8.32,1.68
+LJ09,2026-04-01,bebidas geladas,frappe turmalina,482,21.38,7.63
+LJ09,2026-04-01,cafes,latte,689,16.37,3.85
+LJ09,2026-04-01,bebidas geladas,limonada suica,251,13.72,4.76
+LJ09,2026-04-01,cafes,mocha,360,18.27,4.83
+LJ09,2026-04-01,salgados,pao de queijo 2 un,793,12.24,5.99
+LJ09,2026-04-01,salgados,sanduiche de frango,307,26.98,14.92
+LJ09,2026-04-01,doces,torta de limao fatia,171,16.65,7.67
+LJ09,2026-05-01,doces,bolo de cenoura fatia,237,13.64,5.71
+LJ09,2026-05-01,doces,brownie,390,14.03,6.02
+LJ09,2026-05-01,varejo,cafe em graos 250g,109,41.2,28.35
+LJ09,2026-05-01,graos e varejo,cafe em graos 500g,72,74.3,48.91
+LJ09,2026-05-01,graos e varejo,caneca turmalina,38,60.27,36.31
+LJ09,2026-05-01,cafe,cappuccino,873,15.93,3.59
+LJ09,2026-05-01,graos e varejo,capsulas 10 un,88,37.87,25.83
+LJ09,2026-05-01,bebidas geladas,cha gelado da casa,325,12.78,4.31
+LJ09,2026-05-01,cafes,coado 300ml,832,10.76,2.31
+LJ09,2026-05-01,bebidas geladas,cold brew 400ml,628,16.74,4.98
+LJ09,2026-05-01,doces,cookie de castanha,336,11.2,4.91
+LJ09,2026-05-01,salgados,croissant de queijo,477,18.07,9.41
+LJ09,2026-05-01,salgados,empada de palmito,304,14.99,8.49
+LJ09,2026-05-01,cafes,espresso,1065,8.44,1.74
+LJ09,2026-05-01,geladas,frappe turmalina,525,21.09,7.28
+LJ09,2026-05-01,cafe,latte,692,15.71,3.98
+LJ09,2026-05-01,bebidas geladas,limonada suica,300,14.34,4.57
+LJ09,2026-05-01,cafe,mocha,433,18.38,5.09
+LJ09,2026-05-01,salgados,pao de queijo 2 un,959,12.13,6.02
+LJ09,2026-05-01,salgados,sanduiche de frango,349,26.78,15.7
+LJ09,2026-05-01,doces,torta de limao fatia,206,16.5,7.33
+LJ09,2026-06-01,doces,bolo de cenoura fatia,263,13.22,5.45
+LJ09,2026-06-01,doces,brownie,397,13.99,5.9
+LJ09,2026-06-01,graos e varejo,cafe em graos 250g,111,43.11,27.71
+LJ09,2026-06-01,graos e varejo,cafe em graos 500g,70,75.03,48.02
+LJ09,2026-06-01,graos e varejo,caneca turmalina,37,59.31,38.86
+LJ09,2026-06-01,cafe,cappuccino,900,15.07,3.66
+LJ09,2026-06-01,graos e varejo,capsulas 10 un,78,37.14,26.44
+LJ09,2026-06-01,bebidas geladas,cha gelado da casa,354,13.12,4.18
+LJ09,2026-06-01,cafe,coado 300ml,799,11.07,2.21
+LJ09,2026-06-01,geladas,cold brew 400ml,723,17.15,5.16
+LJ09,2026-06-01,doces,cookie de castanha,381,10.69,4.85
+LJ09,2026-06-01,salgados,croissant de queijo,522,18.06,9.33
+LJ09,2026-06-01,salgados,empada de palmito,316,14.78,8.32
+LJ09,2026-06-01,cafe,espresso,1120,8.69,1.75
+LJ09,2026-06-01,bebidas geladas,frappe turmalina,555,20.77,7.38
+LJ09,2026-06-01,cafe,latte,863,16.35,3.86
+LJ09,2026-06-01,bebidas geladas,limonada suica,318,13.87,4.6
+LJ09,2026-06-01,cafe,mocha,414,18.0,4.81
+LJ09,2026-06-01,salgados,pao de queijo 2 un,948,12.15,6.01
+LJ09,2026-06-01,salgados,sanduiche de frango,345,27.17,14.69
+LJ09,2026-06-01,doces,torta de limao fatia,221,16.63,7.51
+LJ10,2026-01-01,doces,bolo de cenoura fatia,258,13.11,5.41
+LJ10,2026-01-01,doces,brownie,485,14.17,6.22
+LJ10,2026-01-01,graos e varejo,cafe em graos 250g,112,42.02,28.55
+LJ10,2026-01-01,varejo,cafe em graos 500g,85,74.16,49.98
+LJ10,2026-01-01,graos e varejo,caneca turmalina,42,60.54,36.5
+LJ10,2026-01-01,cafe,cappuccino,921,15.79,3.43
+LJ10,2026-01-01,graos e varejo,capsulas 10 un,97,38.73,26.59
+LJ10,2026-01-01,geladas,cha gelado da casa,326,12.88,4.19
+LJ10,2026-01-01,cafe,coado 300ml,953,11.04,2.28
+LJ10,2026-01-01,bebidas geladas,cold brew 400ml,534,16.89,4.87
+LJ10,2026-01-01,doces,cookie de castanha,388,11.31,4.73
+LJ10,2026-01-01,salgados,croissant de queijo,453,17.78,9.94
+LJ10,2026-01-01,salgados,empada de palmito,322,15.12,8.33
+LJ10,2026-01-01,cafe,espresso,1150,8.52,1.65
+LJ10,2026-01-01,bebidas geladas,frappe turmalina,450,21.57,7.58
+LJ10,2026-01-01,cafes,latte,812,15.75,3.79
+LJ10,2026-01-01,bebidas geladas,limonada suica,266,14.24,4.46
+LJ10,2026-01-01,cafes,mocha,437,19.03,4.97
+LJ10,2026-01-01,salgados,pao de queijo 2 un,954,11.65,6.01
+LJ10,2026-01-01,salgados,sanduiche de frango,350,27.57,15.81
+LJ10,2026-01-01,doces,torta de limao fatia,215,16.91,7.15
+LJ10,2026-02-01,doces,bolo de cenoura fatia,293,13.32,5.8
+LJ10,2026-02-01,doces,brownie,478,14.36,6.28
+LJ10,2026-02-01,graos e varejo,cafe em graos 250g,134,40.98,28.71
+LJ10,2026-02-01,graos e varejo,cafe em graos 500g,84,75.0,48.04
+LJ10,2026-02-01,varejo,caneca turmalina,50,59.28,38.21
+LJ10,2026-02-01,cafe,cappuccino,1065,15.43,3.66
+LJ10,2026-02-01,graos e varejo,capsulas 10 un,109,37.12,27.49
+LJ10,2026-02-01,bebidas geladas,cha gelado da casa,349,12.8,4.26
+LJ10,2026-02-01,cafes,coado 300ml,1016,11.0,2.39
+LJ10,2026-02-01,geladas,cold brew 400ml,622,17.08,5.23
+LJ10,2026-02-01,doces,cookie de castanha,419,11.01,4.48
+LJ10,2026-02-01,salgados,croissant de queijo,471,18.51,9.67
+LJ10,2026-02-01,salgados,empada de palmito,335,15.24,8.3
+LJ10,2026-02-01,cafe,espresso,1120,8.62,1.66
+LJ10,2026-02-01,bebidas geladas,frappe turmalina,425,21.6,7.64
+LJ10,2026-02-01,cafe,latte,801,16.35,3.77
+LJ10,2026-02-01,bebidas geladas,limonada suica,242,14.03,4.83
+LJ10,2026-02-01,cafe,mocha,511,18.08,5.08
+LJ10,2026-02-01,salgados,pao de queijo 2 un,1035,11.93,6.02
+LJ10,2026-02-01,salgados,sanduiche de frango,350,27.72,14.86
+LJ10,2026-02-01,doces,torta de limao fatia,232,17.48,7.77
+LJ10,2026-03-01,doces,bolo de cenoura fatia,365,13.73,5.54
+LJ10,2026-03-01,doces,brownie,602,14.41,6.23
+LJ10,2026-03-01,graos e varejo,cafe em graos 250g,163,43.26,28.07
+LJ10,2026-03-01,graos e varejo,cafe em graos 500g,108,76.15,49.51
+LJ10,2026-03-01,varejo,caneca turmalina,62,58.53,39.01
+LJ10,2026-03-01,cafe,cappuccino,1341,15.52,3.67
+LJ10,2026-03-01,graos e varejo,capsulas 10 un,124,38.48,26.49
+LJ10,2026-03-01,bebidas geladas,cha gelado da casa,368,13.35,4.02
+LJ10,2026-03-01,cafes,coado 300ml,1272,11.01,2.35
+LJ10,2026-03-01,geladas,cold brew 400ml,715,17.02,5.3
+LJ10,2026-03-01,doces,cookie de castanha,480,11.15,4.56
+LJ10,2026-03-01,salgados,croissant de queijo,674,17.78,9.29
+LJ10,2026-03-01,salgados,empada de palmito,409,15.3,8.17
+LJ10,2026-03-01,cafes,espresso,1404,8.5,1.66
+LJ10,2026-03-01,geladas,frappe turmalina,591,20.97,7.58
+LJ10,2026-03-01,cafe,latte,1001,15.66,3.77
+LJ10,2026-03-01,bebidas geladas,limonada suica,348,13.76,4.39
+LJ10,2026-03-01,cafes,mocha,556,18.22,4.73
+LJ10,2026-03-01,salgados,pao de queijo 2 un,1304,11.89,6.29
+LJ10,2026-03-01,salgados,sanduiche de frango,448,27.03,15.11
+LJ10,2026-03-01,doces,torta de limao fatia,303,16.65,7.46
+LJ10,2026-04-01,doces,bolo de cenoura fatia,377,13.76,5.41
+LJ10,2026-04-01,doces,brownie,531,14.18,6.1
+LJ10,2026-04-01,graos e varejo,cafe em graos 250g,149,43.13,27.01
+LJ10,2026-04-01,graos e varejo,cafe em graos 500g,101,74.74,48.86
+LJ10,2026-04-01,graos e varejo,caneca turmalina,50,60.34,37.87
+LJ10,2026-04-01,cafes,cappuccino,1161,15.96,3.68
+LJ10,2026-04-01,graos e varejo,capsulas 10 un,110,39.02,25.52
+LJ10,2026-04-01,bebidas geladas,cha gelado da casa,351,12.95,4.24
+LJ10,2026-04-01,cafes,coado 300ml,1029,11.25,2.34
+LJ10,2026-04-01,bebidas geladas,cold brew 400ml,653,17.11,5.23
+LJ10,2026-04-01,doces,cookie de castanha,442,10.88,4.52
+LJ10,2026-04-01,salgados,croissant de queijo,618,18.26,9.25
+LJ10,2026-04-01,salgados,empada de palmito,367,15.2,8.36
+LJ10,2026-04-01,cafes,espresso,1339,8.57,1.76
+LJ10,2026-04-01,geladas,frappe turmalina,519,21.25,7.28
+LJ10,2026-04-01,cafe,latte,1080,15.99,3.83
+LJ10,2026-04-01,bebidas geladas,limonada suica,324,13.65,4.47
+LJ10,2026-04-01,cafe,mocha,581,18.83,4.8
+LJ10,2026-04-01,salgados,pao de queijo 2 un,1056,12.08,5.98
+LJ10,2026-04-01,salgados,sanduiche de frango,453,27.6,16.05
+LJ10,2026-04-01,doces,torta de limao fatia,273,17.1,7.08
+LJ10,2026-05-01,doces,bolo de cenoura fatia,363,13.46,5.86
+LJ10,2026-05-01,doces,brownie,651,14.29,5.93
+LJ10,2026-05-01,graos e varejo,cafe em graos 250g,173,42.62,27.59
+LJ10,2026-05-01,varejo,cafe em graos 500g,119,72.37,48.91
+LJ10,2026-05-01,graos e varejo,caneca turmalina,59,57.45,36.31
+LJ10,2026-05-01,cafes,cappuccino,1351,15.66,3.56
+LJ10,2026-05-01,graos e varejo,capsulas 10 un,147,38.08,25.83
+LJ10,2026-05-01,bebidas geladas,cha gelado da casa,409,12.95,4.1
+LJ10,2026-05-01,cafe,coado 300ml,1277,10.99,2.24
+LJ10,2026-05-01,bebidas geladas,cold brew 400ml,862,16.89,5.25
+LJ10,2026-05-01,doces,cookie de castanha,609,10.9,4.72
+LJ10,2026-05-01,salgados,croissant de queijo,704,17.61,9.4
+LJ10,2026-05-01,salgados,empada de palmito,425,15.07,7.98
+LJ10,2026-05-01,cafe,espresso,1608,8.26,1.73
+LJ10,2026-05-01,bebidas geladas,frappe turmalina,652,21.27,7.54
+LJ10,2026-05-01,cafe,latte,1240,15.96,3.68
+LJ10,2026-05-01,geladas,limonada suica,364,14.34,4.55
+LJ10,2026-05-01,cafe,mocha,649,18.64,4.96
+LJ10,2026-05-01,salgados,pao de queijo 2 un,1210,11.83,6.42
+LJ10,2026-05-01,salgados,sanduiche de frango,560,27.74,15.47
+LJ10,2026-05-01,doces,torta de limao fatia,316,16.64,7.41
+LJ10,2026-06-01,doces,bolo de cenoura fatia,459,13.4,5.66
+LJ10,2026-06-01,doces,brownie,661,14.08,5.94
+LJ10,2026-06-01,graos e varejo,cafe em graos 250g,199,42.8,26.42
+LJ10,2026-06-01,varejo,cafe em graos 500g,122,74.83,48.02
+LJ10,2026-06-01,graos e varejo,caneca turmalina,67,57.67,38.86
+LJ10,2026-06-01,cafe,cappuccino,1362,15.16,3.6
+LJ10,2026-06-01,graos e varejo,capsulas 10 un,143,37.04,26.53
+LJ10,2026-06-01,geladas,cha gelado da casa,468,12.86,4.38
+LJ10,2026-06-01,cafes,coado 300ml,1423,10.92,2.3
+LJ10,2026-06-01,geladas,cold brew 400ml,848,17.44,5.1
+LJ10,2026-06-01,doces,cookie de castanha,575,11.03,4.47
+LJ10,2026-06-01,salgados,croissant de queijo,797,17.98,9.86
+LJ10,2026-06-01,salgados,empada de palmito,482,15.09,8.25
+LJ10,2026-06-01,cafe,espresso,1459,8.7,1.68
+LJ10,2026-06-01,geladas,frappe turmalina,622,21.16,7.62
+LJ10,2026-06-01,cafe,latte,1322,15.62,3.91
+LJ10,2026-06-01,geladas,limonada suica,400,13.94,4.58
+LJ10,2026-06-01,cafe,mocha,719,18.21,4.88
+LJ10,2026-06-01,salgados,pao de queijo 2 un,1559,11.73,6.18
+LJ10,2026-06-01,salgados,sanduiche de frango,522,27.28,15.52
+LJ10,2026-06-01,doces,torta de limao fatia,326,17.19,7.51
+LJ11,2026-01-01,doces,bolo de cenoura fatia,99,13.13,5.84
+LJ11,2026-01-01,doces,brownie,137,13.9,5.96
+LJ11,2026-01-01,varejo,cafe em graos 250g,16,42.03,26.95
+LJ11,2026-01-01,graos e varejo,cafe em graos 500g,9,75.44,49.39
+LJ11,2026-01-01,varejo,caneca turmalina,5,59.39,39.3
+LJ11,2026-01-01,cafe,cappuccino,846,15.72,3.73
+LJ11,2026-01-01,graos e varejo,capsulas 10 un,12,38.19,26.3
+LJ11,2026-01-01,bebidas geladas,cha gelado da casa,197,12.81,4.38
+LJ11,2026-01-01,cafe,coado 300ml,906,10.89,2.22
+LJ11,2026-01-01,bebidas geladas,cold brew 400ml,367,17.24,4.85
+LJ11,2026-01-01,doces,cookie de castanha,142,11.17,4.71
+LJ11,2026-01-01,salgados,croissant de queijo,258,18.15,9.8
+LJ11,2026-01-01,salgados,empada de palmito,171,14.89,8.12
+LJ11,2026-01-01,cafe,espresso,1043,8.74,1.71
+LJ11,2026-01-01,bebidas geladas,frappe turmalina,276,20.45,7.44
+LJ11,2026-01-01,cafes,latte,715,15.64,3.88
+LJ11,2026-01-01,bebidas geladas,limonada suica,157,13.73,4.39
+LJ11,2026-01-01,cafe,mocha,479,18.48,4.84
+LJ11,2026-01-01,salgados,pao de queijo 2 un,468,11.94,6.48
+LJ11,2026-01-01,salgados,sanduiche de frango,203,26.88,15.85
+LJ11,2026-01-01,doces,torta de limao fatia,71,16.5,7.52
+LJ11,2026-02-01,doces,bolo de cenoura fatia,99,13.44,5.74
+LJ11,2026-02-01,doces,brownie,161,14.12,6.3
+LJ11,2026-02-01,varejo,cafe em graos 250g,17,41.2,27.96
+LJ11,2026-02-01,varejo,cafe em graos 500g,10,75.16,48.04
+LJ11,2026-02-01,graos e varejo,caneca turmalina,5,58.89,39.56
+LJ11,2026-02-01,cafe,cappuccino,951,15.24,3.49
+LJ11,2026-02-01,varejo,capsulas 10 un,12,39.07,25.91
+LJ11,2026-02-01,bebidas geladas,cha gelado da casa,190,12.74,4.21
+LJ11,2026-02-01,cafes,coado 300ml,903,11.0,2.31
+LJ11,2026-02-01,bebidas geladas,cold brew 400ml,353,17.44,5.23
+LJ11,2026-02-01,doces,cookie de castanha,154,10.88,4.54
+LJ11,2026-02-01,salgados,croissant de queijo,297,17.66,9.56
+LJ11,2026-02-01,salgados,empada de palmito,171,15.28,8.41
+LJ11,2026-02-01,cafe,espresso,1110,8.62,1.75
+LJ11,2026-02-01,bebidas geladas,frappe turmalina,308,21.18,7.66
+LJ11,2026-02-01,cafes,latte,786,15.93,3.98
+LJ11,2026-02-01,geladas,limonada suica,175,14.28,4.78
+LJ11,2026-02-01,cafe,mocha,511,19.0,5.1
+LJ11,2026-02-01,salgados,pao de queijo 2 un,491,12.33,6.49
+LJ11,2026-02-01,salgados,sanduiche de frango,187,26.46,15.02
+LJ11,2026-02-01,doces,torta de limao fatia,90,17.04,7.46
+LJ11,2026-03-01,doces,bolo de cenoura fatia,130,13.8,5.44
+LJ11,2026-03-01,doces,brownie,189,13.65,5.94
+LJ11,2026-03-01,graos e varejo,cafe em graos 250g,20,42.09,28.07
+LJ11,2026-03-01,graos e varejo,cafe em graos 500g,13,73.79,49.51
+LJ11,2026-03-01,graos e varejo,caneca turmalina,7,59.52,36.83
+LJ11,2026-03-01,cafe,cappuccino,1352,15.36,3.51
+LJ11,2026-03-01,varejo,capsulas 10 un,15,37.64,26.49
+LJ11,2026-03-01,geladas,cha gelado da casa,278,12.69,4.07
+LJ11,2026-03-01,cafe,coado 300ml,1145,11.1,2.41
+LJ11,2026-03-01,geladas,cold brew 400ml,460,17.09,5.33
+LJ11,2026-03-01,doces,cookie de castanha,183,11.06,4.9
+LJ11,2026-03-01,salgados,croissant de queijo,325,18.37,9.98
+LJ11,2026-03-01,salgados,empada de palmito,218,15.14,7.77
+LJ11,2026-03-01,cafe,espresso,1281,8.59,1.77
+LJ11,2026-03-01,bebidas geladas,frappe turmalina,362,20.55,7.48
+LJ11,2026-03-01,cafe,latte,1164,16.28,3.75
+LJ11,2026-03-01,bebidas geladas,limonada suica,215,14.37,4.55
+LJ11,2026-03-01,cafe,mocha,615,19.04,5.14
+LJ11,2026-03-01,salgados,pao de queijo 2 un,626,11.66,6.38
+LJ11,2026-03-01,salgados,sanduiche de frango,277,27.18,15.9
+LJ11,2026-03-01,doces,torta de limao fatia,107,17.17,7.34
+LJ11,2026-04-01,doces,bolo de cenoura fatia,158,13.26,5.57
+LJ11,2026-04-01,doces,brownie,253,13.76,6.03
+LJ11,2026-04-01,graos e varejo,cafe em graos 250g,22,41.83,27.38
+LJ11,2026-04-01,graos e varejo,cafe em graos 500g,16,72.54,47.11
+LJ11,2026-04-01,varejo,caneca turmalina,8,58.63,37.87
+LJ11,2026-04-01,cafe,cappuccino,1408,15.48,3.77
+LJ11,2026-04-01,graos e varejo,capsulas 10 un,20,36.89,27.59
+LJ11,2026-04-01,bebidas geladas,cha gelado da casa,311,12.92,4.37
+LJ11,2026-04-01,cafe,coado 300ml,1355,10.67,2.36
+LJ11,2026-04-01,bebidas geladas,cold brew 400ml,590,17.05,5.27
+LJ11,2026-04-01,doces,cookie de castanha,202,11.27,4.64
+LJ11,2026-04-01,salgados,croissant de queijo,373,18.24,9.32
+LJ11,2026-04-01,salgados,empada de palmito,248,15.31,8.42
+LJ11,2026-04-01,cafe,espresso,1497,8.26,1.68
+LJ11,2026-04-01,bebidas geladas,frappe turmalina,435,20.85,7.32
+LJ11,2026-04-01,cafe,latte,1142,16.33,3.98
+LJ11,2026-04-01,geladas,limonada suica,225,13.87,4.79
+LJ11,2026-04-01,cafes,mocha,733,18.96,4.84
+LJ11,2026-04-01,salgados,pao de queijo 2 un,720,11.95,6.2
+LJ11,2026-04-01,salgados,sanduiche de frango,320,26.5,14.67
+LJ11,2026-04-01,doces,torta de limao fatia,107,17.44,7.48
+LJ11,2026-05-01,doces,bolo de cenoura fatia,151,13.47,5.66
+LJ11,2026-05-01,doces,brownie,249,13.89,6.17
+LJ11,2026-05-01,varejo,cafe em graos 250g,26,41.0,26.5
+LJ11,2026-05-01,varejo,cafe em graos 500g,16,72.64,48.54
+LJ11,2026-05-01,graos e varejo,caneca turmalina,8,60.65,38.62
+LJ11,2026-05-01,cafe,cappuccino,1700,15.55,3.55
+LJ11,2026-05-01,varejo,capsulas 10 un,18,39.11,26.27
+LJ11,2026-05-01,geladas,cha gelado da casa,300,13.05,4.26
+LJ11,2026-05-01,cafe,coado 300ml,1605,10.78,2.22
+LJ11,2026-05-01,bebidas geladas,cold brew 400ml,565,16.76,5.07
+LJ11,2026-05-01,doces,cookie de castanha,211,11.29,4.73
+LJ11,2026-05-01,salgados,croissant de queijo,438,18.53,9.28
+LJ11,2026-05-01,salgados,empada de palmito,266,14.85,8.35
+LJ11,2026-05-01,cafe,espresso,1801,8.32,1.73
+LJ11,2026-05-01,geladas,frappe turmalina,490,20.67,7.91
+LJ11,2026-05-01,cafe,latte,1295,16.44,3.65
+LJ11,2026-05-01,bebidas geladas,limonada suica,293,14.21,4.4
+LJ11,2026-05-01,cafe,mocha,722,18.74,5.14
+LJ11,2026-05-01,salgados,pao de queijo 2 un,783,11.85,6.0
+LJ11,2026-05-01,salgados,sanduiche de frango,348,27.2,15.01
+LJ11,2026-05-01,doces,torta de limao fatia,122,17.47,7.24
+LJ11,2026-06-01,doces,bolo de cenoura fatia,194,13.39,5.59
+LJ11,2026-06-01,doces,brownie,279,14.08,5.98
+LJ11,2026-06-01,varejo,cafe em graos 250g,29,41.25,28.18
+LJ11,2026-06-01,graos e varejo,cafe em graos 500g,16,73.73,46.83
+LJ11,2026-06-01,graos e varejo,caneca turmalina,10,59.79,37.71
+LJ11,2026-06-01,cafes,cappuccino,1582,15.33,3.64
+LJ11,2026-06-01,varejo,capsulas 10 un,22,38.39,25.73
+LJ11,2026-06-01,bebidas geladas,cha gelado da casa,328,12.63,4.33
+LJ11,2026-06-01,cafe,coado 300ml,1548,10.93,2.3
+LJ11,2026-06-01,geladas,cold brew 400ml,614,16.89,4.94
+LJ11,2026-06-01,doces,cookie de castanha,227,11.16,4.66
+LJ11,2026-06-01,salgados,croissant de queijo,471,17.58,9.46
+LJ11,2026-06-01,salgados,empada de palmito,274,14.93,8.12
+LJ11,2026-06-01,cafe,espresso,1876,8.63,1.74
+LJ11,2026-06-01,geladas,frappe turmalina,479,21.15,7.33
+LJ11,2026-06-01,cafe,latte,1310,15.67,3.62
+LJ11,2026-06-01,geladas,limonada suica,292,13.65,4.66
+LJ11,2026-06-01,cafe,mocha,744,17.96,5.13
+LJ11,2026-06-01,salgados,pao de queijo 2 un,870,12.27,6.39
+LJ11,2026-06-01,salgados,sanduiche de frango,332,27.32,14.78
+LJ11,2026-06-01,doces,torta de limao fatia,125,17.32,7.65
+LJ12,2026-01-01,doces,bolo de cenoura fatia,92,13.63,5.67
+LJ12,2026-01-01,doces,brownie,139,14.28,6.04
+LJ12,2026-01-01,graos e varejo,cafe em graos 250g,44,41.01,27.17
+LJ12,2026-01-01,graos e varejo,cafe em graos 500g,25,75.6,49.61
+LJ12,2026-01-01,graos e varejo,caneca turmalina,14,57.76,37.19
+LJ12,2026-01-01,cafe,cappuccino,280,15.66,3.72
+LJ12,2026-01-01,varejo,capsulas 10 un,35,38.84,26.62
+LJ12,2026-01-01,geladas,cha gelado da casa,81,12.88,4.15
+LJ12,2026-01-01,cafe,coado 300ml,267,10.99,2.26
+LJ12,2026-01-01,bebidas geladas,cold brew 400ml,141,16.72,5.27
+LJ12,2026-01-01,doces,cookie de castanha,119,10.76,4.59
+LJ12,2026-01-01,salgados,croissant de queijo,124,18.01,10.18
+LJ12,2026-01-01,salgados,empada de palmito,92,14.73,8.12
+LJ12,2026-01-01,cafe,espresso,307,8.4,1.67
+LJ12,2026-01-01,bebidas geladas,frappe turmalina,113,20.82,7.71
+LJ12,2026-01-01,cafe,latte,216,16.02,3.71
+LJ12,2026-01-01,bebidas geladas,limonada suica,73,13.81,4.62
+LJ12,2026-01-01,cafe,mocha,140,18.45,4.71
+LJ12,2026-01-01,salgados,pao de queijo 2 un,237,12.29,6.48
+LJ12,2026-01-01,salgados,sanduiche de frango,96,27.09,15.04
+LJ12,2026-01-01,doces,torta de limao fatia,59,16.97,7.18
+LJ12,2026-02-01,doces,bolo de cenoura fatia,209,13.68,5.47
+LJ12,2026-02-01,doces,brownie,336,13.76,6.22
+LJ12,2026-02-01,varejo,cafe em graos 250g,101,40.85,28.06
+LJ12,2026-02-01,graos e varejo,cafe em graos 500g,69,76.15,48.4
+LJ12,2026-02-01,graos e varejo,caneca turmalina,34,58.29,38.06
+LJ12,2026-02-01,cafe,cappuccino,673,15.79,3.47
+LJ12,2026-02-01,graos e varejo,capsulas 10 un,76,38.09,26.47
+LJ12,2026-02-01,geladas,cha gelado da casa,196,12.93,4.22
+LJ12,2026-02-01,cafes,coado 300ml,668,11.3,2.41
+LJ12,2026-02-01,bebidas geladas,cold brew 400ml,352,16.75,5.19
+LJ12,2026-02-01,doces,cookie de castanha,289,11.26,4.86
+LJ12,2026-02-01,salgados,croissant de queijo,331,18.21,9.93
+LJ12,2026-02-01,salgados,empada de palmito,211,15.26,8.3
+LJ12,2026-02-01,cafes,espresso,719,8.66,1.77
+LJ12,2026-02-01,bebidas geladas,frappe turmalina,292,21.49,7.87
+LJ12,2026-02-01,cafe,latte,634,15.72,3.71
+LJ12,2026-02-01,bebidas geladas,limonada suica,152,14.11,4.58
+LJ12,2026-02-01,cafe,mocha,329,17.95,4.92
+LJ12,2026-02-01,salgados,pao de queijo 2 un,671,12.35,5.99
+LJ12,2026-02-01,salgados,sanduiche de frango,237,26.23,15.24
+LJ12,2026-02-01,doces,torta de limao fatia,147,17.48,7.17
+LJ12,2026-03-01,doces,bolo de cenoura fatia,310,13.74,5.47
+LJ12,2026-03-01,doces,brownie,471,14.41,6.15
+LJ12,2026-03-01,varejo,cafe em graos 250g,150,42.16,27.97
+LJ12,2026-03-01,graos e varejo,cafe em graos 500g,94,72.25,51.1
+LJ12,2026-03-01,graos e varejo,caneca turmalina,51,59.13,36.83
+LJ12,2026-03-01,cafes,cappuccino,1006,15.73,3.77
+LJ12,2026-03-01,graos e varejo,capsulas 10 un,113,39.1,25.47
+LJ12,2026-03-01,geladas,cha gelado da casa,295,13.13,4.2
+LJ12,2026-03-01,cafes,coado 300ml,875,11.31,2.41
+LJ12,2026-03-01,bebidas geladas,cold brew 400ml,534,16.6,4.86
+LJ12,2026-03-01,doces,cookie de castanha,372,10.87,4.89
+LJ12,2026-03-01,salgados,croissant de queijo,421,17.68,9.51
+LJ12,2026-03-01,salgados,empada de palmito,292,14.94,7.84
+LJ12,2026-03-01,cafe,espresso,967,8.3,1.74
+LJ12,2026-03-01,geladas,frappe turmalina,424,21.42,7.93
+LJ12,2026-03-01,cafe,latte,846,15.66,3.82
+LJ12,2026-03-01,bebidas geladas,limonada suica,213,13.83,4.42
+LJ12,2026-03-01,cafe,mocha,423,18.82,4.95
+LJ12,2026-03-01,salgados,pao de queijo 2 un,828,12.33,6.48
+LJ12,2026-03-01,salgados,sanduiche de frango,300,26.66,16.04
+LJ12,2026-03-01,doces,torta de limao fatia,208,16.57,7.23
+LJ12,2026-04-01,doces,bolo de cenoura fatia,281,13.36,5.79
+LJ12,2026-04-01,doces,brownie,464,13.67,5.9
+LJ12,2026-04-01,graos e varejo,cafe em graos 250g,142,42.58,27.77
+LJ12,2026-04-01,varejo,cafe em graos 500g,88,73.42,46.63
+LJ12,2026-04-01,varejo,caneca turmalina,53,59.1,38.24
+LJ12,2026-04-01,cafe,cappuccino,1084,15.66,3.5
+LJ12,2026-04-01,varejo,capsulas 10 un,116,38.95,27.88
+LJ12,2026-04-01,bebidas geladas,cha gelado da casa,293,13.23,4.41
+LJ12,2026-04-01,cafe,coado 300ml,875,10.83,2.21
+LJ12,2026-04-01,geladas,cold brew 400ml,500,17.15,4.97
+LJ12,2026-04-01,doces,cookie de castanha,434,11.29,4.5
+LJ12,2026-04-01,salgados,croissant de queijo,510,17.84,9.34
+LJ12,2026-04-01,salgados,empada de palmito,294,14.65,8.01
+LJ12,2026-04-01,cafes,espresso,1146,8.67,1.7
+LJ12,2026-04-01,geladas,frappe turmalina,399,21.54,7.31
+LJ12,2026-04-01,cafe,latte,893,15.64,3.71
+LJ12,2026-04-01,bebidas geladas,limonada suica,267,14.16,4.62
+LJ12,2026-04-01,cafe,mocha,456,18.73,4.69
+LJ12,2026-04-01,salgados,pao de queijo 2 un,899,11.73,6.43
+LJ12,2026-04-01,salgados,sanduiche de frango,335,27.41,15.29
+LJ12,2026-04-01,doces,torta de limao fatia,230,17.28,7.03
+LJ12,2026-05-01,doces,bolo de cenoura fatia,387,13.46,5.84
+LJ12,2026-05-01,doces,brownie,634,13.94,6.15
+LJ12,2026-05-01,graos e varejo,cafe em graos 250g,173,42.0,28.37
+LJ12,2026-05-01,varejo,cafe em graos 500g,118,75.52,47.59
+LJ12,2026-05-01,graos e varejo,caneca turmalina,62,60.0,39.49
+LJ12,2026-05-01,cafe,cappuccino,1377,15.38,3.75
+LJ12,2026-05-01,graos e varejo,capsulas 10 un,141,38.14,27.04
+LJ12,2026-05-01,geladas,cha gelado da casa,343,12.78,4.1
+LJ12,2026-05-01,cafe,coado 300ml,1214,10.81,2.19
+LJ12,2026-05-01,bebidas geladas,cold brew 400ml,719,16.81,5.08
+LJ12,2026-05-01,doces,cookie de castanha,565,10.76,4.71
+LJ12,2026-05-01,salgados,croissant de queijo,539,18.28,9.65
+LJ12,2026-05-01,salgados,empada de palmito,379,15.35,7.8
+LJ12,2026-05-01,cafe,espresso,1386,8.69,1.64
+LJ12,2026-05-01,bebidas geladas,frappe turmalina,485,20.87,7.24
+LJ12,2026-05-01,cafes,latte,1002,15.52,3.96
+LJ12,2026-05-01,geladas,limonada suica,328,14.01,4.44
+LJ12,2026-05-01,cafe,mocha,656,18.97,4.8
+LJ12,2026-05-01,salgados,pao de queijo 2 un,1243,12.31,6.34
+LJ12,2026-05-01,salgados,sanduiche de frango,447,27.74,15.44
+LJ12,2026-05-01,doces,torta de limao fatia,305,17.33,7.05
+LJ12,2026-06-01,doces,bolo de cenoura fatia,393,13.13,5.45
+LJ12,2026-06-01,doces,brownie,702,13.73,6.06
+LJ12,2026-06-01,graos e varejo,cafe em graos 250g,198,42.39,27.43
+LJ12,2026-06-01,graos e varejo,cafe em graos 500g,149,71.95,48.34
+LJ12,2026-06-01,varejo,caneca turmalina,85,57.47,37.98
+LJ12,2026-06-01,cafe,cappuccino,1468,15.52,3.74
+LJ12,2026-06-01,varejo,capsulas 10 un,163,39.06,25.81
+LJ12,2026-06-01,geladas,cha gelado da casa,431,13.0,4.09
+LJ12,2026-06-01,cafe,coado 300ml,1325,11.16,2.35
+LJ12,2026-06-01,geladas,cold brew 400ml,798,17.34,5.19
+LJ12,2026-06-01,doces,cookie de castanha,639,10.7,4.71
+LJ12,2026-06-01,salgados,croissant de queijo,607,17.63,9.36
+LJ12,2026-06-01,salgados,empada de palmito,450,15.33,8.29
+LJ12,2026-06-01,cafe,espresso,1717,8.32,1.69
+LJ12,2026-06-01,geladas,frappe turmalina,576,21.3,7.93
+LJ12,2026-06-01,cafe,latte,1117,15.97,3.61
+LJ12,2026-06-01,bebidas geladas,limonada suica,355,14.28,4.74
+LJ12,2026-06-01,cafe,mocha,632,17.98,4.84
+LJ12,2026-06-01,salgados,pao de queijo 2 un,1376,11.7,6.26
+LJ12,2026-06-01,salgados,sanduiche de frango,462,26.27,16.06
+LJ12,2026-06-01,doces,torta de limao fatia,368,16.7,7.2
+LJ13,2026-02-01,doces,bolo de cenoura fatia,36,13.87,5.45
+LJ13,2026-02-01,doces,brownie,49,14.1,6.24
+LJ13,2026-02-01,graos e varejo,cafe em graos 250g,12,41.43,28.63
+LJ13,2026-02-01,varejo,cafe em graos 500g,8,72.88,46.89
+LJ13,2026-02-01,varejo,caneca turmalina,4,60.57,38.06
+LJ13,2026-02-01,cafe,cappuccino,120,15.29,3.46
+LJ13,2026-02-01,graos e varejo,capsulas 10 un,9,37.67,26.06
+LJ13,2026-02-01,bebidas geladas,cha gelado da casa,42,13.24,4.07
+LJ13,2026-02-01,cafe,coado 300ml,103,11.13,2.34
+LJ13,2026-02-01,geladas,cold brew 400ml,68,17.25,5.17
+LJ13,2026-02-01,doces,cookie de castanha,46,11.23,4.66
+LJ13,2026-02-01,salgados,croissant de queijo,68,17.6,9.8
+LJ13,2026-02-01,salgados,empada de palmito,44,14.76,7.93
+LJ13,2026-02-01,cafe,espresso,129,8.67,1.64
+LJ13,2026-02-01,geladas,frappe turmalina,54,20.8,7.84
+LJ13,2026-02-01,cafes,latte,98,16.29,3.83
+LJ13,2026-02-01,bebidas geladas,limonada suica,35,14.17,4.62
+LJ13,2026-02-01,cafe,mocha,56,18.34,4.74
+LJ13,2026-02-01,salgados,pao de queijo 2 un,114,12.1,6.12
+LJ13,2026-02-01,salgados,sanduiche de frango,44,26.23,14.94
+LJ13,2026-02-01,doces,torta de limao fatia,23,16.68,7.32
+LJ13,2026-03-01,doces,bolo de cenoura fatia,228,13.51,5.62
+LJ13,2026-03-01,doces,brownie,341,13.92,6.09
+LJ13,2026-03-01,varejo,cafe em graos 250g,75,43.25,27.97
+LJ13,2026-03-01,varejo,cafe em graos 500g,48,75.76,48.96
+LJ13,2026-03-01,graos e varejo,caneca turmalina,29,57.48,38.99
+LJ13,2026-03-01,cafe,cappuccino,644,15.28,3.48
+LJ13,2026-03-01,graos e varejo,capsulas 10 un,56,36.9,26.73
+LJ13,2026-03-01,bebidas geladas,cha gelado da casa,254,13.2,4.19
+LJ13,2026-03-01,cafe,coado 300ml,626,11.25,2.32
+LJ13,2026-03-01,geladas,cold brew 400ml,423,16.99,4.91
+LJ13,2026-03-01,doces,cookie de castanha,299,11.06,4.56
+LJ13,2026-03-01,salgados,croissant de queijo,376,18.4,9.91
+LJ13,2026-03-01,salgados,empada de palmito,279,14.74,7.78
+LJ13,2026-03-01,cafe,espresso,796,8.61,1.64
+LJ13,2026-03-01,geladas,frappe turmalina,327,21.35,7.65
+LJ13,2026-03-01,cafe,latte,606,16.2,3.85
+LJ13,2026-03-01,bebidas geladas,limonada suica,219,13.77,4.48
+LJ13,2026-03-01,cafes,mocha,333,18.87,4.96
+LJ13,2026-03-01,salgados,pao de queijo 2 un,810,12.25,6.02
+LJ13,2026-03-01,salgados,sanduiche de frango,285,27.17,14.8
+LJ13,2026-03-01,doces,torta de limao fatia,163,16.55,7.14
+LJ13,2026-04-01,doces,bolo de cenoura fatia,251,13.64,5.77
+LJ13,2026-04-01,doces,brownie,421,14.2,5.9
+LJ13,2026-04-01,graos e varejo,cafe em graos 250g,89,42.87,27.77
+LJ13,2026-04-01,varejo,cafe em graos 500g,55,74.03,48.98
+LJ13,2026-04-01,varejo,caneca turmalina,35,59.27,38.28
+LJ13,2026-04-01,cafe,cappuccino,801,15.69,3.59
+LJ13,2026-04-01,graos e varejo,capsulas 10 un,71,37.33,26.16
+LJ13,2026-04-01,bebidas geladas,cha gelado da casa,325,12.89,4.09
+LJ13,2026-04-01,cafe,coado 300ml,742,10.86,2.38
+LJ13,2026-04-01,bebidas geladas,cold brew 400ml,511,16.97,4.92
+LJ13,2026-04-01,doces,cookie de castanha,372,11.32,4.57
+LJ13,2026-04-01,salgados,croissant de queijo,439,18.29,9.22
+LJ13,2026-04-01,salgados,empada de palmito,314,14.99,8.43
+LJ13,2026-04-01,cafes,espresso,947,8.38,1.67
+LJ13,2026-04-01,geladas,frappe turmalina,431,21.51,7.4
+LJ13,2026-04-01,cafe,latte,649,16.1,3.7
+LJ13,2026-04-01,bebidas geladas,limonada suica,242,13.7,4.43
+LJ13,2026-04-01,cafe,mocha,396,18.06,5.09
+LJ13,2026-04-01,salgados,pao de queijo 2 un,950,12.3,6.09
+LJ13,2026-04-01,salgados,sanduiche de frango,389,26.24,14.74
+LJ13,2026-04-01,doces,torta de limao fatia,191,16.54,7.24
+LJ13,2026-05-01,doces,bolo de cenoura fatia,317,13.69,5.86
+LJ13,2026-05-01,doces,brownie,511,14.24,6.38
+LJ13,2026-05-01,graos e varejo,cafe em graos 250g,110,42.68,28.25
+LJ13,2026-05-01,graos e varejo,cafe em graos 500g,79,72.42,46.85
+LJ13,2026-05-01,graos e varejo,caneca turmalina,37,60.09,39.49
+LJ13,2026-05-01,cafe,cappuccino,1087,15.35,3.58
+LJ13,2026-05-01,graos e varejo,capsulas 10 un,85,37.31,26.39
+LJ13,2026-05-01,bebidas geladas,cha gelado da casa,406,12.7,4.07
+LJ13,2026-05-01,cafe,coado 300ml,984,11.12,2.21
+LJ13,2026-05-01,bebidas geladas,cold brew 400ml,723,17.17,5.3
+LJ13,2026-05-01,doces,cookie de castanha,412,11.06,4.77
+LJ13,2026-05-01,salgados,croissant de queijo,543,17.96,9.69
+LJ13,2026-05-01,salgados,empada de palmito,369,15.13,7.88
+LJ13,2026-05-01,cafes,espresso,1219,8.51,1.74
+LJ13,2026-05-01,geladas,frappe turmalina,574,21.34,7.29
+LJ13,2026-05-01,cafe,latte,842,15.77,3.95
+LJ13,2026-05-01,bebidas geladas,limonada suica,284,13.96,4.77
+LJ13,2026-05-01,cafe,mocha,528,18.87,5.04
+LJ13,2026-05-01,salgados,pao de queijo 2 un,1177,11.7,5.97
+LJ13,2026-05-01,salgados,sanduiche de frango,428,27.77,15.7
+LJ13,2026-05-01,doces,torta de limao fatia,259,16.95,7.53
+LJ13,2026-06-01,doces,bolo de cenoura fatia,375,13.59,5.52
+LJ13,2026-06-01,doces,brownie,578,14.0,6.15
+LJ13,2026-06-01,varejo,cafe em graos 250g,124,41.6,27.43
+LJ13,2026-06-01,graos e varejo,cafe em graos 500g,79,74.27,50.27
+LJ13,2026-06-01,varejo,caneca turmalina,46,60.02,38.98
+LJ13,2026-06-01,cafes,cappuccino,1117,15.31,3.49
+LJ13,2026-06-01,graos e varejo,capsulas 10 un,98,38.71,25.96
+LJ13,2026-06-01,bebidas geladas,cha gelado da casa,449,13.38,4.15
+LJ13,2026-06-01,cafes,coado 300ml,1040,11.2,2.33
+LJ13,2026-06-01,bebidas geladas,cold brew 400ml,825,16.87,4.89
+LJ13,2026-06-01,doces,cookie de castanha,502,10.9,4.6
+LJ13,2026-06-01,salgados,croissant de queijo,690,17.8,9.39
+LJ13,2026-06-01,salgados,empada de palmito,424,14.93,8.33
+LJ13,2026-06-01,cafe,espresso,1212,8.42,1.69
+LJ13,2026-06-01,geladas,frappe turmalina,663,20.98,7.77
+LJ13,2026-06-01,cafes,latte,917,16.13,3.85
+LJ13,2026-06-01,bebidas geladas,limonada suica,376,13.89,4.42
+LJ13,2026-06-01,cafe,mocha,574,18.12,4.73
+LJ13,2026-06-01,salgados,pao de queijo 2 un,1236,12.32,5.99
+LJ13,2026-06-01,salgados,sanduiche de frango,488,27.32,15.61
+LJ13,2026-06-01,doces,torta de limao fatia,269,16.64,7.31
+LJ14,2026-03-01,doces,bolo de cenoura fatia,122,13.75,5.55
+LJ14,2026-03-01,doces,brownie,174,13.78,6.26
+LJ14,2026-03-01,varejo,cafe em graos 250g,66,40.88,27.91
+LJ14,2026-03-01,graos e varejo,cafe em graos 500g,43,75.33,48.96
+LJ14,2026-03-01,graos e varejo,caneca turmalina,21,58.69,39.86
+LJ14,2026-03-01,cafe,cappuccino,407,15.76,3.69
+LJ14,2026-03-01,graos e varejo,capsulas 10 un,50,37.46,27.61
+LJ14,2026-03-01,bebidas geladas,cha gelado da casa,113,12.79,4.02
+LJ14,2026-03-01,cafe,coado 300ml,324,10.82,2.39
+LJ14,2026-03-01,bebidas geladas,cold brew 400ml,213,17.17,5.28
+LJ14,2026-03-01,doces,cookie de castanha,149,10.97,4.63
+LJ14,2026-03-01,salgados,croissant de queijo,163,18.49,9.69
+LJ14,2026-03-01,salgados,empada de palmito,128,14.6,8.4
+LJ14,2026-03-01,cafe,espresso,402,8.3,1.63
+LJ14,2026-03-01,geladas,frappe turmalina,169,21.33,7.23
+LJ14,2026-03-01,cafe,latte,343,15.64,3.82
+LJ14,2026-03-01,geladas,limonada suica,91,13.87,4.47
+LJ14,2026-03-01,cafe,mocha,189,18.82,4.98
+LJ14,2026-03-01,salgados,pao de queijo 2 un,375,11.89,6.25
+LJ14,2026-03-01,salgados,sanduiche de frango,135,27.75,15.4
+LJ14,2026-03-01,doces,torta de limao fatia,83,17.05,7.58
+LJ14,2026-04-01,doces,bolo de cenoura fatia,246,13.39,5.41
+LJ14,2026-04-01,doces,brownie,365,13.62,6.36
+LJ14,2026-04-01,varejo,cafe em graos 250g,116,42.78,28.25
+LJ14,2026-04-01,varejo,cafe em graos 500g,86,75.64,50.21
+LJ14,2026-04-01,graos e varejo,caneca turmalina,44,59.59,39.75
+LJ14,2026-04-01,cafe,cappuccino,784,15.35,3.76
+LJ14,2026-04-01,varejo,capsulas 10 un,100,36.97,27.69
+LJ14,2026-04-01,bebidas geladas,cha gelado da casa,228,12.8,4.17
+LJ14,2026-04-01,cafe,coado 300ml,735,11.15,2.2
+LJ14,2026-04-01,bebidas geladas,cold brew 400ml,400,17.02,5.31
+LJ14,2026-04-01,doces,cookie de castanha,331,10.74,4.81
+LJ14,2026-04-01,salgados,croissant de queijo,378,18.46,9.28
+LJ14,2026-04-01,salgados,empada de palmito,260,14.98,8.33
+LJ14,2026-04-01,cafes,espresso,781,8.28,1.65
+LJ14,2026-04-01,bebidas geladas,frappe turmalina,324,21.46,7.77
+LJ14,2026-04-01,cafe,latte,588,16.39,3.94
+LJ14,2026-04-01,bebidas geladas,limonada suica,192,14.26,4.39
+LJ14,2026-04-01,cafe,mocha,361,18.14,4.84
+LJ14,2026-04-01,salgados,pao de queijo 2 un,779,11.8,6.04
+LJ14,2026-04-01,salgados,sanduiche de frango,261,26.63,15.13
+LJ14,2026-04-01,doces,torta de limao fatia,175,16.7,7.44
+LJ14,2026-05-01,doces,bolo de cenoura fatia,293,13.83,5.34
+LJ14,2026-05-01,doces,brownie,429,13.7,6.18
+LJ14,2026-05-01,varejo,cafe em graos 250g,159,43.09,28.17
+LJ14,2026-05-01,graos e varejo,cafe em graos 500g,92,75.89,48.07
+LJ14,2026-05-01,graos e varejo,caneca turmalina,55,59.69,36.3
+LJ14,2026-05-01,cafe,cappuccino,1050,15.17,3.76
+LJ14,2026-05-01,graos e varejo,capsulas 10 un,136,37.99,26.86
+LJ14,2026-05-01,geladas,cha gelado da casa,282,12.91,4.13
+LJ14,2026-05-01,cafes,coado 300ml,885,11.19,2.32
+LJ14,2026-05-01,bebidas geladas,cold brew 400ml,497,17.08,5.33
+LJ14,2026-05-01,doces,cookie de castanha,384,11.04,4.8
+LJ14,2026-05-01,salgados,croissant de queijo,439,17.92,9.78
+LJ14,2026-05-01,salgados,empada de palmito,281,15.26,8.15
+LJ14,2026-05-01,cafes,espresso,1116,8.51,1.73
+LJ14,2026-05-01,bebidas geladas,frappe turmalina,425,21.08,7.41
+LJ14,2026-05-01,cafes,latte,853,15.93,3.7
+LJ14,2026-05-01,bebidas geladas,limonada suica,229,13.65,4.43
+LJ14,2026-05-01,cafe,mocha,465,18.74,5.06
+LJ14,2026-05-01,salgados,pao de queijo 2 un,953,12.17,6.03
+LJ14,2026-05-01,salgados,sanduiche de frango,373,27.07,15.97
+LJ14,2026-05-01,doces,torta de limao fatia,237,16.71,7.62
+LJ14,2026-06-01,doces,bolo de cenoura fatia,378,13.17,5.79
+LJ14,2026-06-01,doces,brownie,518,14.05,5.93
+LJ14,2026-06-01,graos e varejo,cafe em graos 250g,199,42.71,26.95
+LJ14,2026-06-01,varejo,cafe em graos 500g,116,75.86,50.32
+LJ14,2026-06-01,varejo,caneca turmalina,75,57.55,38.98
+LJ14,2026-06-01,cafe,cappuccino,1073,15.05,3.63
+LJ14,2026-06-01,varejo,capsulas 10 un,158,38.96,26.16
+LJ14,2026-06-01,bebidas geladas,cha gelado da casa,335,12.92,4.01
+LJ14,2026-06-01,cafe,coado 300ml,1161,10.86,2.28
+LJ14,2026-06-01,bebidas geladas,cold brew 400ml,661,17.26,4.95
+LJ14,2026-06-01,doces,cookie de castanha,506,10.82,4.52
+LJ14,2026-06-01,salgados,croissant de queijo,514,17.93,10.05
+LJ14,2026-06-01,salgados,empada de palmito,363,14.91,7.74
+LJ14,2026-06-01,cafes,espresso,1328,8.62,1.62
+LJ14,2026-06-01,bebidas geladas,frappe turmalina,458,20.37,7.47
+LJ14,2026-06-01,cafes,latte,972,15.82,3.8
+LJ14,2026-06-01,bebidas geladas,limonada suica,306,14.11,4.52
+LJ14,2026-06-01,cafes,mocha,577,18.67,4.8
+LJ14,2026-06-01,salgados,pao de queijo 2 un,1100,11.71,6.43
+LJ14,2026-06-01,salgados,sanduiche de frango,460,26.99,15.35
+LJ14,2026-06-01,doces,torta de limao fatia,295,17.29,7.51
