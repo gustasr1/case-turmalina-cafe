@@ -21,4 +21,7 @@ Thumbs.db
 *.log
 
 #Dados processados
-data/02_processed/
+data/02_processed/turmalina_avaliacoes_tratado.csv
+data/02_processed/turmalina_itens_tratado.csv
+data/02_processed/turmalina_lojas_tratada.csv
+data/02_processed/turmalina_vendas_tratada.csv
