@@ -54,9 +54,7 @@ Metricas para guiar a priorização da semana na reunião de diretoria:
 **4. Nota de Satisfação**
 
 - Fórmula: Média aritmética da coluna nota (após tratamento de texto)
-
 - Pergunta Atendida: Como o cliente avalia o conjunto da obra daquela loja?
-
 - Limitações: Inconsistência de preenchimento devido a versões antigas do aplicativo que aceitavam texto livre.  
 
 ### 5. Wireframe da Tela
