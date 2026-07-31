@@ -60,6 +60,8 @@ Metricas para guiar a priorização da semana na reunião de diretoria:
 ### 5. Wireframe da Tela
 ![esboco_bi_case](esboco_bi_case.png)
 
+- **Cartões (Acima do gráfico de dispersão)**: Dois cartões principais destacando o **Lucro Operacional (R$)** e o **Média de Satisfação** (Nota de Satisfação) para dar base o diagnóstico financeiro e de experiência no topo da página.
+
 - Filtro Global (Topo): Seleção de período (Mês/Semana) aplicável a todas as visões.
 
 - Visão 1: Matriz de Priorização (Lado Esquerdo): Um Gráfico de Dispersão listando todas as lojas. O Eixo X exibe a Margem (%) e o Eixo Y a Nota de Satisfação. Este visual divide a tela e evidencia imediatamente as lojas na parte inferior esquerda (pior desempenho combinado).
